@@ -1,0 +1,749 @@
+Sortierung,Ebene,Landesverband / Schule,Geschäftsstelle,Ortsverband,Kürzel,Gründungsdatum,Name 1,Name 2,Strasse,PLZ,Ort,Länge,Breite,Bundesland,Regierungsbezirk,Kreis
+5,BuS,Hoya,,,SHOY,12.07.1959,Bundesschule Hoya,,Hasseler Steinweg 7,27318,Hoya,9.152903,52.80617,Niedersachsen, ,Nienburg (Weser)
+5,BuS,Neuhausen,,,SNEU,08.07.1995,Bundesschule Neuhausen,,Novizenweg 1,73765,Neuhausen a.d.F.,9.279134,48.674511,Baden-Württemberg,Stuttgart,Esslingen
+4,THW-Ltg.,,,,TLTG,22.08.1950,Leitung,,Provinzialstraße 93,53127,Bonn,7.068053,50.714905,Nordrhein-Westfalen,Köln,Bonn
+4,THW-Ltg.,,,,TLTG,22.08.1950,Logistikzentrum,,Talburgstraße 52-54,42579,Heiligenhaus,6.953243,51.330348,Nordrhein-Westfalen,Düsseldorf,Mettmann
+4,THW-Ltg.,,,,TLTG,22.08.1950,Zentrum für Auslandslogistik,,Heinrich-von-Brentano-Str. 1,55130,Mainz,8.2914,49.977945,Rheinland-Pfalz, ,Mainz
+3,LV,Baden-Württemberg,,,LVBW,,Der Landesbeauftragte für Baden-Württemberg,,Burgholzstr. 31,70376,Stuttgart,9.207881,48.822025,Baden-Württemberg,Stuttgart,Stuttgart
+3,LV,Bayern,,,LVBY,,Der Landesbeauftragte für Bayern,,Hedwig-Dransfeld-Allee 11,80637,München,11.543568,48.164242,Bayern,Oberbayern,München
+3,LV,"Berlin, Brandenburg, Sachsen-Anhalt",,,LVBE,,"Der Landesbeauftragte für Berlin, Brandenburg, Sachsen-Anhalt",,Soorstraße 84,14050,Berlin,13.279033,52.516592,Berlin, ,Berlin
+3,LV,"Bremen, Niedersachsen",,,LVNI,,"Der Landesbeauftragte für Bremen, Niedersachsen",,Kriegerstraße 1,30161,Hannover,9.742521,52.386472,Niedersachsen, ,Hannover
+3,LV,"Hamburg, Mecklenburg-Vorpommern",,,LVSH,,"Der Landesbeauftragte für Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein",,Saarbrückenstraße 145,24114,Kiel,10.1055629,54.31009,Schleswig-Holstein, ,Kiel
+3,LV,"Hessen, Rheinland-Pfalz, Saarland",,,LVRP,,"Der Landesbeauftragte für Hessen, Rheinland-Pfalz, Saarland",,Heinrich-von-Brentano-Str. 1,55130,Mainz,8.2914,49.977945,Rheinland-Pfalz, ,Mainz
+3,LV,Nordrhein-Westfalen,,,LVNW,,Der Landesbeauftragte für Nordrhein-Westfalen,,Talburgstraße 52-54,42579,Heiligenhaus,6.953243,51.330348,Nordrhein-Westfalen,Düsseldorf,Mettmann
+3,LV,"Sachsen, Thüringen",,,LVTH,28.06.1996,"Die Landesbeauftragte für Sachsen, Thüringen",,Geschwister-Scholl-Straße 2,4600,Altenburg,12.431563,50.98144,Thüringen, ,Altenburger Land
+2,GSt,Baden-Württemberg,Biberach,,GBIB,,Landesverband Baden-Württemberg,Geschäftsstelle Biberach,Rolf-Keller-Platz 2,88400,Biberach/Riß,9.807007,48.09554,Baden-Württemberg,Tübingen,Biberach
+2,GSt,Baden-Württemberg,Freiburg,,GFRE,,Landesverband Baden-Württemberg,Geschäftsstelle Freiburg,Hermann-Mitsch-Straße 21,79108,Freiburg i.B.,7.837703,48.025692,Baden-Württemberg,Freiburg,Freiburg i.B.
+2,GSt,Baden-Württemberg,Göppingen,,GGOE,,Landesverband Baden-Württemberg,Geschäftsstelle Göppingen,Manfred-Wörner-Straße 180,73037,Göppingen,9.68833,48767,Baden-Württemberg,Stuttgart,Göppingen
+2,GSt,Baden-Württemberg,Heilbronn,,GHBR,,Landesverband Baden-Württemberg,Geschäftsstelle Heilbronn,Kreuzenstraße 98,74076,Heilbronn,9.225508,49.1603,Baden-Württemberg,Stuttgart,Heilbronn
+2,GSt,Baden-Württemberg,Karlsruhe,,GKAR,,Landesverband Baden-Württemberg,Geschäftsstelle Karlsruhe,Grünhutstraße 9,76187,Karlsruhe,8.351439,49.03906,Baden-Württemberg,Karlsruhe,Karlsruhe
+2,GSt,Baden-Württemberg,Mannheim,,GMAN,,Landesverband Baden-Württemberg,Geschäftsstelle Mannheim,Saarburger Ring 57 - 59,68229,Mannheim,8.5705373,49.4410215,Baden-Württemberg,Karlsruhe,Mannheim
+2,GSt,Baden-Württemberg,Stuttgart,,GSTU,,Landesverband Baden-Württemberg,Geschäftsstelle Stuttgart,Burgholzstr. 31,70376,Stuttgart,9.207881,48.822025,Baden-Württemberg,Stuttgart,Stuttgart
+2,GSt,Baden-Württemberg,Tübingen,,GTUE,,Landesverband Baden-Württemberg,Geschäftsstelle Tübingen,Hegelstraße 1/1,72072,Tübingen,9.057294,48.51505,Baden-Württemberg,Tübingen,Tübingen
+2,GSt,Baden-Württemberg,Villingen-Schwenningen,,GVIS,,Landesverband Baden-Württemberg,Geschäftsstelle Villingen-Schwenningen,Oberdorfstraße 58,78054,Villingen-Schwenningen,8.525689,48.062741,Baden-Württemberg,Freiburg,Schwarzwald-Baar-Kreis
+2,GSt,Bayern,Bad Tölz,,GTOE,,Landesverband Bayern,Geschäftsstelle Bad Tölz,Förchenholzstraße 10,83646,Bad Tölz,11.554101,47.775809,Bayern,Oberbayern,Bad Tölz-Wolfratshausen
+2,GSt,Bayern,Bamberg,,GBAM,,Landesverband Bayern,Geschäftsstelle Bamberg,Am Klingen 2,96149,Breitengüßbach,10.88863,49.968465,Bayern,Oberfranken,Bamberg
+2,GSt,Bayern,Hof,,GHOF,,Landesverband Bayern,Geschäftsstelle Hof,Lessingstraße 37,95028,Hof,11.913409,50.324631,Bayern,Oberfranken,Hof
+2,GSt,Bayern,Ingolstadt,,GING,,Landesverband Bayern,Geschäftsstelle Ingolstadt,Marie-Curie-Straße 33,85055,Ingolstadt,11.482123,48.786696,Bayern,Oberbayern,Ingolstadt
+2,GSt,Bayern,Karlstadt,,GKST,,Landesverband Bayern,Geschäftsstelle Karlstadt,Johann-von-Korb-Straße 3,97753,Karlstadt,9.769274,49.960095,Bayern,Unterfranken,Main-Spessart
+2,GSt,Bayern,Kempten,,GKEM,,Landesverband Bayern,Geschäftsstelle Kempten,Madlenerstraße 8,87439,Kempten (Allgäu),10.313142,47.732682,Bayern,Schwaben,Kempten (Allgäu)
+2,GSt,Bayern,Mühldorf,,GMUE,,Landesverband Bayern,Geschäftsstelle Mühldorf,Färberstraße 13,84453,Mühldorf,12.504246,48.247446,Bayern,Oberbayern,Mühldorf a. Inn
+2,GSt,Bayern,München,,GMUC,,Landesverband Bayern,Geschäftsstelle München,Unterbiberger Straße 5,81737,München,11.628619,48.093372,Bayern,Oberbayern,München
+2,GSt,Bayern,Nürnberg,,GNUE,,Landesverband Bayern,Geschäftsstelle Nürnberg,Tillypark 200,90431,Nürnberg,11.034308,49.435229,Bayern,Mittelfranken,Nürnberg
+2,GSt,Bayern,Schwandorf,,GSCH,,Landesverband Bayern,Geschäftsstelle Schwandorf,Bei der Autobahnmeisterei 3,92421,Schwandorf,12.15051,49.317088,Bayern,Oberpfalz,Schwandorf
+2,GSt,Bayern,Straubing,,GSTR,,Landesverband Bayern,Geschäftsstelle Straubing,Siemensstraße 15a,94315,Straubing,12.578509,48.87031,Bayern,Niederbayern,Straubing
+2,GSt,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,,GBER,,"Länderverband Berlin, Brandenburg, Sachsen-Anhalt",Geschäftsstelle Berlin,Soorstraße 84,14050,Berlin,13.279033,52.516592,Berlin, ,Berlin
+2,GSt,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),,GFOD,,"Länderverband Berlin, Brandenburg, Sachsen-Anhalt",Geschäftsstelle Frankfurt (Oder),Mozartstraße 12 a,15234,Frankfurt (Oder),14.491022,52.352745,Brandenburg, ,Frankfurt (Oder)
+2,GSt,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,,GHAL,,"Länderverband Berlin, Brandenburg, Sachsen-Anhalt",Geschäftsstelle Halle,Murmansker Straße 15,6130,Halle (Saale),11.968584,51.451458,Sachsen-Anhalt, ,Halle (Saale)
+2,GSt,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,,GMGB,16.11.1991,"Länderverband Berlin, Brandenburg, Sachsen-Anhalt",Geschäftsstelle Magdeburg,An der Enckekaserne 7,39110,Magdeburg,11.5689421433323,52.1280056205086,Sachsen-Anhalt, ,Magdeburg
+2,GSt,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,,GPOT,,"Länderverband Berlin, Brandenburg, Sachsen-Anhalt",Geschäftsstelle Potsdam,Heinrich-Zille-Straße 2,14532,Stahnsdorf,13.195539,52.385822,Brandenburg, ,Potsdam-Mittelmark
+2,GSt,"Bremen, Niedersachsen",Braunschweig,,GBRA,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Braunschweig,Ludwig-Winter-Straße 11,38120,Braunschweig,10.494947,52.251018,Niedersachsen, ,Braunschweig
+2,GSt,"Bremen, Niedersachsen",Bremen,,GHBN,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Bremen,Togostraße 44,28239,Bremen,8.742735,53.125326,Bremen, ,Bremen
+2,GSt,"Bremen, Niedersachsen",Buxtehude,,GBUX,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Buxtehude,Helga-Wex-Platz 2,21614,Buxtehude,9.682378,53.4617,Niedersachsen, ,Stade
+2,GSt,"Bremen, Niedersachsen",Göttingen,,GGOT,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Göttingen,Kasseler Landstraße 27,37081,Göttingen,9.901342,51.531494,Niedersachsen, ,Göttingen
+2,GSt,"Bremen, Niedersachsen",Hannover,,GHAN,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Hannover,Wiesenauer Straße 14,30179,Hannover,9.718514,52.425849,Niedersachsen, ,Hannover
+2,GSt,"Bremen, Niedersachsen",Lingen,,GLIN,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Lingen,Feuerdornstraße 3,49808,Lingen (Ems),7.286924,52.512553,Niedersachsen, ,Emsland
+2,GSt,"Bremen, Niedersachsen",Oldenburg,,GOLD,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Oldenburg,Artillerieweg 59,26129,Oldenburg (Oldb),8.187573,53.15234,Niedersachsen, ,Oldenburg (Oldb)
+2,GSt,"Bremen, Niedersachsen",Verden,,GVER,,"Länderverband Bremen, Niedersachsen",Geschäftsstelle Verden,Clüversweg 4,27283,Verden,9.242136,52.912982,Niedersachsen, ,Verden
+2,GSt,"Hamburg, Mecklenburg-Vorpommern",Hamburg,,GHHB,,"Länderverband Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein",Geschäftsstelle Hamburg,Carl-Cohn-Straße 36-38,22297,Hamburg,10.007855,53.604467,Hamburg, ,Hamburg
+2,GSt,"Hamburg, Mecklenburg-Vorpommern",Lübeck,,GHLB,,"Länderverband Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein",Geschäftsstelle Lübeck,Vorwerker Straße 141,23554,Lübeck,10.677595,53.900035,Schleswig-Holstein, ,Lübeck
+2,GSt,"Hamburg, Mecklenburg-Vorpommern",Neumünster,,GITZ,,"Länderverband Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein",Geschäftsstelle Neumünster,Niebüller Straße 34-36,24537,Neumünster,9.939899,54.063815,Schleswig-Holstein, ,Neumünster
+2,GSt,"Hamburg, Mecklenburg-Vorpommern",Schleswig,,GSLG,,"Länderverband Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein",Geschäftsstelle Schleswig,Agnes-Pockels-Straße 7,24837,Schleswig,9.586086,54.541887,Schleswig-Holstein, ,Schleswig-Flensburg
+2,GSt,"Hamburg, Mecklenburg-Vorpommern",Schwerin,,GSWN,,"Länderverband Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein",Geschäftsstelle Schwerin,Mettenheimer Straße 7,19061,Schwerin,11.419093,53.599669,Mecklenburg-Vorpommern, ,Schwerin
+2,GSt,"Hamburg, Mecklenburg-Vorpommern",Stralsund,,GSTD,,"Länderverband Hamburg, Mecklenburg-Vorpommern, Schleswig-Holstein",Geschäftsstelle Stralsund,Rudenstraße 18,18439,Stralsund,13.123274,54.306701,Mecklenburg-Vorpommern, ,Stralsund
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,,GBKN,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Bad Kreuznach,Otto-Meffert-Straße 6,55543,Bad Kreuznach,7.87349824800191,49.8290324654719,Rheinland-Pfalz, ,Bad Kreuznach
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,,GDAR,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Darmstadt,Eschollbrücker Straße 24,64295,Darmstadt,8.639754,49.861707,Hessen,Darmstadt,Darmstadt
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,,GFRA,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Frankfurt,Königsberger Straße 8,60487,Frankfurt am Main,8.624585,50.127932,Hessen,Darmstadt,Frankfurt am Main
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,,GGEL,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Gelnhausen,Cassebeerstraße 9,63571,Gelnhausen,9.174731,50.205611,Hessen,Darmstadt,Main-Kinzig-Kreis
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Gießen,,GGIE,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Gießen,Erdkauter Weg 20,35392,Gießen,8.682625,50.571493,Hessen,Gießen,Gießen
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Homberg,,GHOM,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Homberg,Schlesierweg 8-10,34576,Homberg,9.39416,51.03277,Hessen,Kassel,Schwalm-Eder-Kreis
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,,GKOB,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Koblenz,Von-Kuhl-Straße 3,56070,Koblenz,7.579324,50.379135,Rheinland-Pfalz, ,Koblenz
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Merzig,,GMER,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Merzig,Im Holzhau 4,66663,Merzig,6.622292,49.45894,Saarland, ,Merzig-Wadern
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,,GNAW,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Neustadt a.d.W,Flugplatzstraße 90,67435,Neustadt a. d. Weinstraße,8.218847,49.323993,Rheinland-Pfalz, ,Neustadt a. d. Weinstraße
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,,GSAA,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Saarbrücken,Metzer Straße 153,66117,Saarbrücken,6.957129,49.20467,Saarland, ,Stadtverband Saarbrücken
+2,GSt,"Hessen, Rheinland-Pfalz, Saarland",Trier,,GTRI,,"Länderverband Hessen, Rheinland-Pfalz, Saarland",Geschäftsstelle Trier,Peter-Schroeder-Straße 16,54294,Trier,6.616267,49.751497,Rheinland-Pfalz, ,Trier
+2,GSt,Nordrhein-Westfalen,Aachen,,GAAC,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Aachen,Eckenerstraße 52,52078,Aachen,6.158488,50.756488,Nordrhein-Westfalen,Köln,Aachen
+2,GSt,Nordrhein-Westfalen,Arnsberg,,GARN,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Arnsberg,Niedereimerfeld 19b,59823,Arnsberg,8.038909,51.421216,Nordrhein-Westfalen,Arnsberg,Hochsauerlandkreis
+2,GSt,Nordrhein-Westfalen,Bielefeld,,GBIE,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Bielefeld,Friedrich-Hagemann-Straße 32,33719,Bielefeld,8.583076,52.01628,Nordrhein-Westfalen,Detmold,Bielefeld
+2,GSt,Nordrhein-Westfalen,Bochum,,GBOC,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Bochum,Harpener Feld 5,44805,Bochum,7.258699,51.498234,Nordrhein-Westfalen,Arnsberg,Bochum
+2,GSt,Nordrhein-Westfalen,Dortmund,,GDOR,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Dortmund,Niedersachsenweg 14,44143,Dortmund,7.525417,51.528822,Nordrhein-Westfalen,Arnsberg,Dortmund
+2,GSt,Nordrhein-Westfalen,Düsseldorf,,GDUE,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Düsseldorf,Kaiserswerther Str. 83b,40878,Ratingen,6.953243,51.330348,Nordrhein-Westfalen,Düsseldorf,Mettmann
+2,GSt,Nordrhein-Westfalen,Gelsenkirchen,,GGKN,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Gelsenkirchen,Adenauerallee 100,45891,Gelsenkirchen,7.071368,51.562677,Nordrhein-Westfalen,Münster,Gelsenkirchen
+2,GSt,Nordrhein-Westfalen,Köln,,GKOE,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Köln,Ostmerheimer Straße 202,51109,Köln,7.050342,50.934194,Nordrhein-Westfalen,Köln,Köln
+2,GSt,Nordrhein-Westfalen,Mönchengladbach,,GMOE,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Mönchengladbach,Lilienthalstraße 31,41069,Mönchengladbach,6.399821,51.177072,Nordrhein-Westfalen,Düsseldorf,Mönchengladbach
+2,GSt,Nordrhein-Westfalen,Münster,,GMST,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Münster,An den Speichern 3,48157,Münster,7.634576,51.995715,Nordrhein-Westfalen,Münster,Münster
+2,GSt,Nordrhein-Westfalen,Olpe,,GOLP,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Olpe,Friedrichsthaler Straße 8a,57462,Olpe,7.837142,51.007374,Nordrhein-Westfalen,Arnsberg,Olpe
+2,GSt,Nordrhein-Westfalen,Wesel,,GWES,,Landesverband Nordrhein-Westfalen,Geschäftsstelle Wesel,Kanonenberge 4,46487,Wesel,6.595044,51.691143,Nordrhein-Westfalen,Düsseldorf,Wesel
+2,GSt,"Sachsen, Thüringen",Chemnitz,,GCHE,27.03.1996,"Länderverband Sachsen, Thüringen",Geschäftsstelle Chemnitz,Max-Saupe-Straße 41 e,9131,Chemnitz,12.952892,50.871017,Sachsen,Chemnitz,Chemnitz
+2,GSt,"Sachsen, Thüringen",Dresden,,GDRE,01.01.1993,"Länderverband Sachsen, Thüringen",Geschäftsstelle Dresden,Fabricestraße 5,1099,Dresden,13.75482,51.081478,Sachsen,Dresden,Dresden
+2,GSt,"Sachsen, Thüringen",Erfurt,,GERF,01.02.1993,"Länderverband Sachsen, Thüringen",Geschäftsstelle Erfurt,Drosselbergstrasse 4,99097,Erfurt,11.048086,50.95113,Thüringen, ,Erfurt
+2,GSt,"Sachsen, Thüringen",Leipzig,,GLEI,01.06.1992,"Länderverband Sachsen, Thüringen",Geschäftsstelle Leipzig,Eichendorff-Straße 9,4277,Leipzig,12.373852,51.313811,Sachsen,Leipzig,Leipzig
+1,OV,Baden-Württemberg,Biberach,Biberach/Riß,OBIB,11.03.1954,Der Ortsbeauftragte für Biberach/Riß,,Ritter von Essendorf Straße 53,88400,Biberach/Riß,9.768922,48.095552,Baden-Württemberg,Tübingen,Biberach
+1,OV,Baden-Württemberg,Biberach,Blaubeuren,OBLA,20.11.1971,Der Ortsbeauftragte für Blaubeuren,,Leinenstraße 17,89143,Blaubeuren,9.760349,48.428424,Baden-Württemberg,Tübingen,Alb-Donau-Kreis
+1,OV,Baden-Württemberg,Biberach,Ehingen,OEHI,28.10.1966,Der Ortsbeauftragte für Ehingen,,Berkacher Straße 64,89584,Ehingen,9.730791,48.293221,Baden-Württemberg,Tübingen,Alb-Donau-Kreis
+1,OV,Baden-Württemberg,Biberach,Friedrichshafen,OFRH,28.01.1953,Der Ortsbeauftragte für Friedrichshafen,,Großbuch 3,88074,Meckenbeuren,9.518803,47.677723,Baden-Württemberg,Tübingen,Bodenseekreis
+1,OV,Baden-Württemberg,Biberach,Pfullendorf,OPFU,13.05.1986,Der Ortsbeauftragte für Pfullendorf,,Jakobsweg 1,88630,Pfullendorf,9.259152,47.919667,Baden-Württemberg,Tübingen,Sigmaringen
+1,OV,Baden-Württemberg,Biberach,Riedlingen,ORIE,21.07.1967,Der Ortsbeauftragte für Riedlingen,,De Pay Straße 4,88499,Riedlingen,9.483093,48.15025,Baden-Württemberg,Tübingen,Biberach
+1,OV,Baden-Württemberg,Biberach,Überlingen,OUEB,03.07.1968,Der Ortsbeauftragte für Überlingen,,Zum Degenhardt 6,88662,Überlingen,9.195879,47.777359,Baden-Württemberg,Tübingen,Bodenseekreis
+1,OV,Baden-Württemberg,Biberach,Ulm,OULM,01.01.1952,Der Ortsbeauftragte für Ulm,,Am Sandhaken 34,89079,Ulm,9.964139,48.364593,Baden-Württemberg,Tübingen,Ulm
+1,OV,Baden-Württemberg,Biberach,Wangen,OWAN,20.01.1956,Der Ortsbeauftragte für Wangen,,Herfatz 32,88239,Wangen,9.814789,47.705686,Baden-Württemberg,Tübingen,Ravensburg
+1,OV,Baden-Württemberg,Biberach,Weingarten,OWEI,28.11.1952,Der Ortsbeauftragte für Weingarten,,Weltestraße 9,88250,Weingarten,9.631527,47.819437,Baden-Württemberg,Tübingen,Ravensburg
+1,OV,Baden-Württemberg,Freiburg,Achern,OACH,01.06.1959,Der Ortsbeauftragte für Achern,,Franz-John-Straße 15,77855,Achern,8.05589,48.630726,Baden-Württemberg,Freiburg,Ortenaukreis
+1,OV,Baden-Württemberg,Freiburg,Biberach/BD.,OBID,04.11.1969,Der Ortsbeauftragte für Biberach/Bd.,,Schmelzhöfestraße 1,77781,Biberach,8.032046,48.335062,Baden-Württemberg,Freiburg,Ortenaukreis
+1,OV,Baden-Württemberg,Freiburg,Breisach,OBRE,09.11.1966,Der Ortsbeauftragte für Breisach,,Müllheimer Straße 7,79206,Breisach,7.580712,48.039157,Baden-Württemberg,Freiburg,Breisgau-Hochschwarzwald
+1,OV,Baden-Württemberg,Freiburg,Emmendingen,OEMM,25.12.1965,Der Ortsbeauftragte für Emmendingen,,Einfangweg 3,79341,Kenzingen,7.766606,48.186138,Baden-Württemberg,Freiburg,Emmendingen
+1,OV,Baden-Württemberg,Freiburg,Freiburg,OFRE,09.07.1952,Der Ortsbeauftragte für Freiburg,,Hermann-Mitsch-Straße 21,79108,Freiburg i.B.,7.837703,48.025692,Baden-Württemberg,Freiburg,Freiburg i.B.
+1,OV,Baden-Württemberg,Freiburg,Kehl,OKEH,09.04.1954,Der Ortsbeauftragte für Kehl,,Hafenstraße 48,77694,Kehl,7.817796,48.597968,Baden-Württemberg,Freiburg,Ortenaukreis
+1,OV,Baden-Württemberg,Freiburg,Lahr,OLAR,14.01.1954,Der Ortsbeauftragte für Lahr,,Rainer-Haungs-Straße 22,77933,Lahr,7.827358,48.35444,Baden-Württemberg,Freiburg,Ortenaukreis
+1,OV,Baden-Württemberg,Freiburg,Lörrach,OLOE,18.08.1952,Der Ortsbeauftragte für Lörrach,,Wölblinstraße 53,79539,Lörrach,7.654387,47.618131,Baden-Württemberg,Freiburg,Lörrach
+1,OV,Baden-Württemberg,Freiburg,Müllheim,OMLH,01.12.1967,Der Ortsbeauftragte für Müllheim,,Neuenburger Straße 11,79379,Müllheim,7.593111,47.81086,Baden-Württemberg,Freiburg,Breisgau-Hochschwarzwald
+1,OV,Baden-Württemberg,Freiburg,Offenburg,OOFF,05.09.1952,Der Ortsbeauftragte für Offenburg,,Eckenerstraße 8,77652,Offenburg,7.946018,48.488461,Baden-Württemberg,Freiburg,Ortenaukreis
+1,OV,Baden-Württemberg,Freiburg,Rheinfelden,ORHE,08.02.1953,Der Ortsbeauftragte für Rheinfelden,,Römerstraße 96,79618,Rheinfelden,7.796207,47.571796,Baden-Württemberg,Freiburg,Lörrach
+1,OV,Baden-Württemberg,Freiburg,Schopfheim,OSPF,27.10.1952,Der Ortsbeauftragte für Schopfheim,,Grienmatt 27B,79650,Schopfheim,7.833426,47.6622,Baden-Württemberg,Freiburg,Lörrach
+1,OV,Baden-Württemberg,Göppingen,Aalen,OAAL,14.11.1952,Der Ortsbeauftragte für Aalen,,Robert-Bosch-Straße 9,73431,Aalen,10.077658,48.826095,Baden-Württemberg,Stuttgart,Ostalbkreis
+1,OV,Baden-Württemberg,Göppingen,Ellwangen,OELL,27.08.1952,Der Ortsbeauftragte für Ellwangen,,Dr. Adolf-Schneider-Str. 13/1,73479,Ellwangen,10.165237,48.955394,Baden-Württemberg,Stuttgart,Ostalbkreis
+1,OV,Baden-Württemberg,Göppingen,Geislingen,OGEI,14.07.1953,Der Ortsbeauftragte für Geislingen,,Rheinlandstraße 106,73312,Geislingen,9.819067,48.629135,Baden-Württemberg,Stuttgart,Göppingen
+1,OV,Baden-Württemberg,Göppingen,Göppingen,OGOE,22.11.1952,Der Ortsbeauftragte für Göppingen,,Manfred-Wörner-Straße 180,73037,Göppingen,9.68833,48767,Baden-Württemberg,Stuttgart,Göppingen
+1,OV,Baden-Württemberg,Göppingen,Gruibingen,OGRU,01.04.1976,Der Ortsbeauftragte für Gruibingen,,Riederweg 6,73344,Gruibingen,9.6376031,48.6029647,Baden-Württemberg,Stuttgart,Göppingen
+1,OV,Baden-Württemberg,Göppingen,Heidenheim,OHEI,16.01.1953,Der Ortsbeauftragte für Heidenheim,,In den Seewiesen 24,89520,Heidenheim an der Brenz,10.16358,48.693855,Baden-Württemberg,Stuttgart,Heidenheim
+1,OV,Baden-Württemberg,Göppingen,Kirchheim/Teck,OKIR,08.12.1965,Der Ortsbeauftragte für Kirchheim/Teck,,Henriettenstraße 88/1,73230,Kirchheim/Teck,9.43598,48.650434,Baden-Württemberg,Stuttgart,Esslingen
+1,OV,Baden-Württemberg,Göppingen,Neuhausen,ONEU,01.04.1974,Der Ortsbeauftragte für Neuhausen,,Novizenweg 1,73765,Neuhausen a.d.F.,9.279134,48.674511,Baden-Württemberg,Stuttgart,Esslingen
+1,OV,Baden-Württemberg,Göppingen,Ostfildern,OOST,10.11.1952,Der Ortsbeauftragte für Ostfildern,,Gehringstraße 3,73760,Ostfildern,9.265166,48.728962,Baden-Württemberg,Stuttgart,Esslingen
+1,OV,Baden-Württemberg,Göppingen,Schwäbisch Gmünd,OGMU,09.12.1952,Der Ortsbeauftragte für Schwäbisch Gmünd,,Pfeilhalde 12,73529,Schwäbisch Gmünd,9.813743,48.786572,Baden-Württemberg,Stuttgart,Ostalbkreis
+1,OV,Baden-Württemberg,Heilbronn,Crailsheim,OCRA,14.01.1953,Der Ortsbeauftragte für Crailsheim,,Burgbergstraße 41,74564,Crailsheim,10.053434,49.134441,Baden-Württemberg,Stuttgart,Schwäbisch Hall
+1,OV,Baden-Württemberg,Heilbronn,Heilbronn,OHBR,25.02.1953,Der Ortsbeauftragte für Heilbronn,,Austraße 91,74076,Heilbronn,9.219308,49.162396,Baden-Württemberg,Stuttgart,Heilbronn
+1,OV,Baden-Württemberg,Heilbronn,Igersheim,OBME,15.09.1969,Der Ortsbeauftragte für Igersheim,,Walter-Wittenstein-Straße 12,97999,Igersheim,9.85447,49.5357682,Baden-Württemberg,Stuttgart,Main-Tauber-Kreis
+1,OV,Baden-Württemberg,Heilbronn,Künzelsau,OKUE,21.01.1966,Der Ortsbeauftragte für Künzelsau,,Gewann Wald 2,74653,Künzelsau,9.687887,49.279467,Baden-Württemberg,Stuttgart,Hohenlohekreis
+1,OV,Baden-Württemberg,Heilbronn,Pfedelbach,OOEH,08.12.1966,Der Ortsbeauftragte für Pfedelbach,,Brunnenfeldstraße 17,74629,Pfedelbach,9.498797,49.182527,Baden-Württemberg,Stuttgart,Hohenlohekreis
+1,OV,Baden-Württemberg,Heilbronn,Schwäbisch Hall,OSHA,19.11.1965,Der Ortsbeauftragte für Schwäbisch Hall,,Blätteräcker 1,74523,Schwäbisch Hall,9.831273,49.09814,Baden-Württemberg,Stuttgart,Schwäbisch Hall
+1,OV,Baden-Württemberg,Heilbronn,Weinsberg,OWBG,14.03.1962,Der Ortsbeauftragte für Weinsberg,,Abtsäckerstraße 48,74189,Weinsberg,9.301666,49.153118,Baden-Württemberg,Stuttgart,Heilbronn
+1,OV,Baden-Württemberg,Heilbronn,Wertheim,OWER,25.09.1968,Der Ortsbeauftragte für Wertheim,,Willy-Brandt-Straße 17,97877,Wertheim,9.495784,49.757516,Baden-Württemberg,Stuttgart,Main-Tauber-Kreis
+1,OV,Baden-Württemberg,Heilbronn,Widdern,OWID,01.10.1968,Der Ortsbeauftragte für Widdern,,Kiesstraße 8,74259,Widdern,9.411646,49.317092,Baden-Württemberg,Stuttgart,Heilbronn
+1,OV,Baden-Württemberg,Karlsruhe,Baden-Baden,OBBA,16.06.1953,Der Ortsbeauftragte für Baden-Baden,,Wörthstraße 16,76532,Baden-Baden,8.199511,48.783224,Baden-Württemberg,Karlsruhe,Baden-Baden
+1,OV,Baden-Württemberg,Karlsruhe,Bühl,OBUE,21.10.1959,Der Ortsbeauftragte für Bühl,,Fridolin-Stiegler-Str. 15,77815,Bühl,8.131111,48.708531,Baden-Württemberg,Karlsruhe,Rastatt
+1,OV,Baden-Württemberg,Karlsruhe,Dettenheim,ODET,25.03.1966,Der Ortsbeauftragte für Dettenheim,,Im Schorrenfeld 33,76661,Philippsburg,8.456674,49.202525,Baden-Württemberg,Karlsruhe,Karlsruhe
+1,OV,Baden-Württemberg,Karlsruhe,Karlsruhe,OKAR,08.07.1952,Der Ortsbeauftragte für Karlsruhe,,Grünhutstraße 9,76187,Karlsruhe,8.351439,49.03906,Baden-Württemberg,Karlsruhe,Karlsruhe
+1,OV,Baden-Württemberg,Karlsruhe,Mühlacker,OMAC,09.04.1959,Der Ortsbeauftragte für Mühlacker,,Schelmenwaldstraße 26/3,75417,Mühlacker,8.856622,48.975548,Baden-Württemberg,Karlsruhe,Enzkreis
+1,OV,Baden-Württemberg,Karlsruhe,Neuenbürg-Arnbach,ONBA,01.12.1972,Der Ortsbeauftragte für Neuenbürg-Arnbach,,Gräfenhäuser Straße 42,75305,Neuenbürg,8.568552,48.862347,Baden-Württemberg,Karlsruhe,Enzkreis
+1,OV,Baden-Württemberg,Karlsruhe,Niefern-Öschelbronn,ONOE,01.07.1967,Der Ortsbeauftragte für Niefern-Öschelbronn,,Industriestraße 17,75223,Niefern-Öschelbronn,8.80765,48.90153,Baden-Württemberg,Karlsruhe,Enzkreis
+1,OV,Baden-Württemberg,Karlsruhe,Oberhausen-Rheinhausen,OOBE,21.04.1973,Der Ortsbeauftragte für Oberhausen-Rheinhausen,,Hoeber-und- Mandelbaumstr. 5,68794,Oberhausen-Rheinhausen,8.4850133,49.259701,Baden-Württemberg,Karlsruhe,Karlsruhe
+1,OV,Baden-Württemberg,Karlsruhe,Pforzheim,OPFO,01.08.1952,Der Ortsbeauftragte für Pforzheim,,Villingerstraße 12,75179,Pforzheim,8.659279,48.90583,Baden-Württemberg,Karlsruhe,Pforzheim
+1,OV,Baden-Württemberg,Karlsruhe,Rastatt,ORAS,09.01.1954,Der Ortsbeauftragte für Rastatt,,Niederwaldstraße 11/2,76437,Rastatt,8.217859,48.862851,Baden-Württemberg,Karlsruhe,Rastatt
+1,OV,Baden-Württemberg,Karlsruhe,Waghäusel,OWAG,01.01.1964,Der Ortsbeauftragte für Waghäusel,,Bussardstraße 1,68753,Waghäusel,8.509057,49.240068,Baden-Württemberg,Karlsruhe,Karlsruhe
+1,OV,Baden-Württemberg,Mannheim,Adelsheim,OADE,15.10.1968,Der Ortsbeauftragte für Adelsheim,,Lachenstraße 35 b,74740,Adelsheim,9.388059,49.412813,Baden-Württemberg,Karlsruhe,Neckar-Odenwald-Kreis
+1,OV,Baden-Württemberg,Mannheim,Eberbach,OEBE,02.06.1954,Der Ortsbeauftragte für Eberbach,,Pleutersbacher Straße 34,69412,Eberbach,8.973616,49.460533,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
+1,OV,Baden-Württemberg,Mannheim,Haßmersheim,OHAS,06.12.1965,Der Ortsbeauftragte für Haßmersheim,,Kurt-Vogelsang-Straße 1,74855,Haßmersheim,9.149322,49.304798,Baden-Württemberg,Karlsruhe,Neckar-Odenwald-Kreis
+1,OV,Baden-Württemberg,Mannheim,Heidelberg,OHBG,07.07.1952,Der Ortsbeauftragte für Heidelberg,,Am Taubenfeld 35,69123,Heidelberg,8.637656,49.42953,Baden-Württemberg,Karlsruhe,Heidelberg
+1,OV,Baden-Württemberg,Mannheim,Ladenburg,OLAD,08.12.1953,Der Ortsbeauftragte für Ladenburg,,Am Sägewerk 1,68526,Ladenburg,8.598853,49.482456,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
+1,OV,Baden-Württemberg,Mannheim,Mannheim,OMAN,07.07.1952,Der Ortsbeauftragte für Mannheim,,Saarburger Ring 57 - 59,68229,Mannheim,8.5705373,49.4410215,Baden-Württemberg,Karlsruhe,Mannheim
+1,OV,Baden-Württemberg,Mannheim,Neckargemünd,ONEC,17.12.1965,Der Ortsbeauftragte für Neckargemünd,,Wiesenbacher Straße 7,69151,Neckargemünd,8.801907,49.391447,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
+1,OV,Baden-Württemberg,Mannheim,Neunkirchen,ONEK,25.06.1971,Der Ortsbeauftragte für Neunkirchen,,Zwingenberger Straße 1,74867,Neunkirchen,9.014713,49.388294,Baden-Württemberg,Karlsruhe,Neckar-Odenwald-Kreis
+1,OV,Baden-Württemberg,Mannheim,Sinsheim,OSIH,01.11.1970,Der Ortsbeauftragte für Sinsheim,,Neulandstr. 30,74889,Sinsheim,8.88691,49.24351,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
+1,OV,Baden-Württemberg,Mannheim,Wiesloch-Walldorf,OWIE,17.09.1965,Der Ortsbeauftragte für Wiesloch-Walldorf,,Ludwig-Wagner-Straße 18,69168,Wiesloch,8.67154,49.284639,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
+1,OV,Baden-Württemberg,Stuttgart,Backnang,OBAC,28.01.1961,Der Ortsbeauftragte für Backnang,,Theodor-Körner-Straße 51,71522,Backnang,9.418116,48.941654,Baden-Württemberg,Stuttgart,Rems-Murr-Kreis
+1,OV,Baden-Württemberg,Stuttgart,Bietigheim-Bissingen,OBBI,25.10.1969,Der Ortsbeauftragte für Bietigheim-Bissingen,,Carl-Benz-Straße 22,74321,Bietigheim-Bissingen,9.128884,48.942494,Baden-Württemberg,Stuttgart,Ludwigsburg
+1,OV,Baden-Württemberg,Stuttgart,Böblingen,OBOE,15.08.1955,Der Ortsbeauftragte für Böblingen,,Junkersstraße 5,71034,Böblingen,8.981664,48.687577,Baden-Württemberg,Stuttgart,Böblingen
+1,OV,Baden-Württemberg,Stuttgart,Calw,OCAL,16.10.1965,Der Ortsbeauftragte für Calw,,Neubulacher Straße 1,75385,Bad Teinach-Zavelstein,8.723971,48.676985,Baden-Württemberg,Karlsruhe,Calw
+1,OV,Baden-Württemberg,Stuttgart,Leonberg,OLEO,06.12.1966,Der Ortsbeauftragte für Leonberg,,Mollenbachstraße 11,71229,Leonberg,9.003665,48.784615,Baden-Württemberg,Stuttgart,Böblingen
+1,OV,Baden-Württemberg,Stuttgart,Ludwigsburg,OLUD,11.11.1952,Der Ortsbeauftragte für Ludwigsburg,,Alter See 19,71638,Ludwigsburg,9.190304,48.895909,Baden-Württemberg,Stuttgart,Ludwigsburg
+1,OV,Baden-Württemberg,Stuttgart,Schorndorf,OSCH,15.03.1961,Der Ortsbeauftragte für Schorndorf,,Baumwasenstraße 36,73614,Schorndorf,9.510966,48.807017,Baden-Württemberg,Stuttgart,Rems-Murr-Kreis
+1,OV,Baden-Württemberg,Stuttgart,Stuttgart,OST1,07.07.1952,Der Ortsbeauftragte für Stuttgart,,Burgholzstr. 31,70376,Stuttgart,9.207881,48.822025,Baden-Württemberg,Stuttgart,Stuttgart
+1,OV,Baden-Württemberg,Tübingen,Albstadt,OALB,03.02.1966,Der Ortsbeauftragte für Albstadt,,Rudolf-Diesel-Straße 5,72461,Albstadt,9.028432,48.23073,Baden-Württemberg,Tübingen,Zollernalbkreis
+1,OV,Baden-Württemberg,Tübingen,Balingen,OBAL,01.01.1955,Der Ortsbeauftragte für Balingen,,Roßwanger Straße 18,72336,Balingen,8.851034,48.239731,Baden-Württemberg,Tübingen,Zollernalbkreis
+1,OV,Baden-Württemberg,Tübingen,Freudenstadt,OFDS,25.11.1966,Der Ortsbeauftragte für Freudenstadt,,Ludwig-Jahn-Straße 32 a,72250,Freudenstadt,8.414945,48.4689,Baden-Württemberg,Karlsruhe,Freudenstadt
+1,OV,Baden-Württemberg,Tübingen,Hechingen,OHEC,28.08.1952,Der Ortsbeauftragte für Hechingen,,Sprißlerstraße 5,72379,Hechingen,8.983582,48.349101,Baden-Württemberg,Tübingen,Zollernalbkreis
+1,OV,Baden-Württemberg,Tübingen,Horb,OHOR,15.03.1969,Der Ortsbeauftragte für Horb,,Kreuzerstraße 20,72160,Horb,8.694214,48.449359,Baden-Württemberg,Karlsruhe,Freudenstadt
+1,OV,Baden-Württemberg,Tübingen,Münsingen,OMUS,07.05.1966,Der Ortsbeauftragte für Münsingen,,Langenwaag 3-5,72525,Münsingen,9.535139,48.410362,Baden-Württemberg,Tübingen,Reutlingen
+1,OV,Baden-Württemberg,Tübingen,Ofterdingen,OOFT,01.01.1971,Der Ortsbeauftragte für Ofterdingen,,Haidschwärze 11,72131,Ofterdingen,9.04158,48.426657,Baden-Württemberg,Tübingen,Tübingen
+1,OV,Baden-Württemberg,Tübingen,Reutlingen,OREU,05.04.1954,Der Ortsbeauftragte für Reutlingen,,Carl-Zeiss-Straße 60,72770,Reutlingen,9.154155,48.500171,Baden-Württemberg,Tübingen,Reutlingen
+1,OV,Baden-Württemberg,Tübingen,Rottenburg,OROT,01.03.1954,Der Ortsbeauftragte für Rottenburg,,Lauberbühlweg 50 - 52,72108,Rottenburg,8.956471,48.455856,Baden-Württemberg,Tübingen,Tübingen
+1,OV,Baden-Württemberg,Tübingen,Tübingen,OTUE,27.11.1953,Der Ortsbeauftragte für Tübingen,,Steinlachwasen 24,72072,Tübingen,9.064775,48491,Baden-Württemberg,Tübingen,Tübingen
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Bad Säckingen,OBSA,01.11.1952,Der Ortsbeauftragte für Bad Säckingen,,Heinrich-Hübsch-Straße 30,79713,Bad Säckingen,7.967668,47.557728,Baden-Württemberg,Freiburg,Waldshut
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Donaueschingen,ODON,27.11.1965,Der Ortsbeauftragte für Donaueschingen,,Raiffeisenstraße 46,78166,Donaueschingen,8.509776,47.962194,Baden-Württemberg,Freiburg,Schwarzwald-Baar-Kreis
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Konstanz,OKON,26.02.1953,Der Ortsbeauftragte für Konstanz,,Litzelstetter Straße 110,78467,Konstanz,9.16065,47.698426,Baden-Württemberg,Freiburg,Konstanz
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Laufenburg,OLBG,29.07.1954,Der Ortsbeauftragte für Laufenburg,,Dr. Rudolf Eberle Straße 8,79725,Laufenburg,8.080575,47.564833,Baden-Württemberg,Freiburg,Waldshut
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Radolfzell,ORAD,01.10.1955,Der Ortsbeauftragte für Radolfzell,,Franz-Anton-Mesmer-Straße 24,78315,Radolfzell,8.958379,47.742012,Baden-Württemberg,Freiburg,Konstanz
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Rottweil,OROW,01.01.1954,Der Ortsbeauftragte für Rottweil,,Robert-Bosch-Straße 19,78658,Zimmern ob Rottweil,8.579709,48.170498,Baden-Württemberg,Freiburg,Rottweil
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Schramberg,OSBG,03.12.1959,Der Ortsbeauftragte für Schramberg,,Albert-Moser-Straße 5,78713,Schramberg,8.418178,48.239542,Baden-Württemberg,Freiburg,Rottweil
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Singen,OSGN,30.03.1955,Der Ortsbeauftragte für Singen,,Grubwaldstraße 9,78224,Singen,8.862914,47.756116,Baden-Württemberg,Freiburg,Konstanz
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Stockach,OSTO,16.02.1967,Der Ortsbeauftragte für Stockach,,Höllstraße 15,78333,Stockach,9.006568,47.856988,Baden-Württemberg,Freiburg,Konstanz
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Trossingen,OTRO,01.05.1964,Der Ortsbeauftragte für Trossingen,,Tuninger Straße 42,78647,Trossingen,8.627704,48.069817,Baden-Württemberg,Freiburg,Tuttlingen
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Tuttlingen,OTUT,01.11.1953,Der Ortsbeauftragte für Tuttlingen,,Ludwigstaler Str. 64,78532,Tuttlingen,8.82744,47.99133,Baden-Württemberg,Freiburg,Tuttlingen
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Villingen-Schwenningen,OVSC,03.10.1952,Der Ortsbeauftragte für Villingen-Schwenningen,,Max-Planck-Straße 18,78052,Villingen-Schwenningen,8.448507,48.082255,Baden-Württemberg,Freiburg,Schwarzwald-Baar-Kreis
+1,OV,Baden-Württemberg,Villingen-Schwenningen,Waldshut-Tiengen,OWAL,07.10.1952,Der Ortsbeauftragte für Waldshut-Tiengen,,Von-Opel-Straße 7,79761,Waldshut-Tiengen,8.25435,47.623639,Baden-Württemberg,Freiburg,Waldshut
+1,OV,Bayern,Bad Tölz,Bad Aibling,OAIB,01.03.1955,Der Ortsbeauftragte für Bad Aibling,,Bruckmühler Straße 41,83052,Bruckmühl,11.959467,47.873509,Bayern,Oberbayern,Rosenheim
+1,OV,Bayern,Bad Tölz,Garmisch-Partenkirchen,OGPA,04.04.1954,Der Ortsbeauftragte für Garmisch-Partenkirchen,,Zur Maximilianshöhe 7,82467,Garmisch-Partenkirchen,11.060241,47.488481,Bayern,Oberbayern,Garmisch-Partenkirchen
+1,OV,Bayern,Bad Tölz,Geretsried,OGER,27.01.1972,Der Ortsbeauftragte für Geretsried,,Gustav-Adolf-Straße 22,82538,Geretsried,11.498654,47.856127,Bayern,Oberbayern,Bad Tölz-Wolfratshausen
+1,OV,Bayern,Bad Tölz,Landsberg,OLDS,17.02.1954,Der Ortsbeauftragte für Landsberg,,Ehrenpreisstraße 4,86899,Landsberg,10.863283,48.035671,Bayern,Oberbayern,Landsberg am Lech
+1,OV,Bayern,Bad Tölz,Miesbach,OMIE,25.02.1954,Der Ortsbeauftragte für Miesbach,,Nordgraben 19,83714,Miesbach,11.835327,47.793984,Bayern,Oberbayern,Miesbach
+1,OV,Bayern,Bad Tölz,Rosenheim,OROS,18.07.1952,Der Ortsbeauftragte für Rosenheim,,Schmettererstraße 11,83022,Rosenheim,12.120237,47.854916,Bayern,Oberbayern,Rosenheim
+1,OV,Bayern,Bad Tölz,Schongau,OSOA,18.03.1954,Der Ortsbeauftragte für Schongau,,Peitnachstraße 8,86956,Schongau,10.923201,47.814369,Bayern,Oberbayern,Weilheim-Schongau
+1,OV,Bayern,Bad Tölz,Starnberg,OSTG,20.05.1967,Der Ortsbeauftragte für Starnberg,,Am Schloßhölzl 15,82319,Starnberg,11.353601,48.016591,Bayern,Oberbayern,Starnberg
+1,OV,Bayern,Bad Tölz,Weilheim,OWHM,05.08.1953,Der Ortsbeauftragte für Weilheim,,Holzhofstraße 34,82362,Weilheim,11.125246,47.829541,Bayern,Oberbayern,Weilheim-Schongau
+1,OV,Bayern,Bamberg,Bad Kissingen,OBKI,01.05.1953,Der Ortsbeauftragte für Bad Kissingen,,Waldsiedlung 14,97714,Oerlenbach,10.172997,50.184314,Bayern,Unterfranken,Bad Kissingen
+1,OV,Bayern,Bamberg,Bad Staffelstein,OSTA,12.05.1953,Der Ortsbeauftragte für Bad Staffelstein,,Krausenbachstraße 5,96231,Bad Staffelstein,11.028277,50.116683,Bayern,Oberfranken,Lichtenfels
+1,OV,Bayern,Bamberg,Bamberg,OBAM,09.11.1952,Der Ortsbeauftragte für Bamberg,,Am Börstig 8,96052,Bamberg,10.887481,49.920337,Bayern,Oberfranken,Bamberg
+1,OV,Bayern,Bamberg,Coburg,OCOB,28.02.1953,Der Ortsbeauftragte für Coburg,,Industriestraße 4 a,96487,Dörfles-Esbach,10.988671,50.27754,Bayern,Oberfranken,Coburg
+1,OV,Bayern,Bamberg,Forchheim,OFOR,01.10.1952,Der Ortsbeauftragte für Forchheim,,Zur Staustufe 38,91301,Forchheim,11.052179,49.738088,Bayern,Oberfranken,Forchheim
+1,OV,Bayern,Bamberg,Gerolzhofen,OGZF,01.04.1958,Der Ortsbeauftragte für Gerolzhofen,,Dreimühlenstraße 31,97447,Gerolzhofen,10.339888,49.906429,Bayern,Unterfranken,Schweinfurt
+1,OV,Bayern,Bamberg,Haßfurt,OHFT,01.02.1960,Der Ortsbeauftragte für Haßfurt,,Augsfelder Straße 40,97437,Haßfurt,10.538302,50.027671,Bayern,Unterfranken,Haßberge
+1,OV,Bayern,Bamberg,Kirchehrenbach,OKIB,02.07.1961,Der Ortsbeauftragte für Kirchehrenbach,,Leutenbacher Straße 41,91356,Kirchehrenbach,11.156864,49.732414,Bayern,Oberfranken,Forchheim
+1,OV,Bayern,Bamberg,Mellrichstadt,OMEL,01.04.1954,Der Ortsbeauftragte für Mellrichstadt,,Wiesentalgraben 4,97638,Mellrichstadt,10.2851,50.41662,Bayern,Unterfranken,Rhön-Grabfeld
+1,OV,Bayern,Bamberg,Schweinfurt,OSWE,01.03.1953,Der Ortsbeauftragte für Schweinfurt,,Franz-Schubert-Straße 1b,97421,Schweinfurt,10.214451,50.052949,Bayern,Unterfranken,Schweinfurt
+1,OV,Bayern,Hof,Bayreuth,OBAY,17.04.1953,Der Ortsbeauftragte für Bayreuth,,Karl-von-Linde-Straße 3,95447,Bayreuth,11.561951,49.931961,Bayern,Oberfranken,Bayreuth
+1,OV,Bayern,Hof,Hof,OHOF,12.01.1953,Der Ortsbeauftragte für Hof,,Klostertor 3,95028,Hof,11.914448,50.320744,Bayern,Oberfranken,Hof
+1,OV,Bayern,Hof,Kronach,OKRO,14.09.1953,Der Ortsbeauftragte für Kronach,,Im Eichicht 1b,96317,Kronach,11.34125,50.23377,Bayern,Oberfranken,Kronach
+1,OV,Bayern,Hof,Kulmbach,OKUL,03.01.1953,Der Ortsbeauftragte für Kulmbach,,Von-Linde-Straße 15,95326,Kulmbach,11.425924,50.098359,Bayern,Oberfranken,Kulmbach
+1,OV,Bayern,Hof,Marktredwitz,OMAR,25.02.1953,Der Ortsbeauftragte für Marktredwitz,,Lorenzreutherstraße 5,95615,Marktredwitz,12.093748,50.013395,Bayern,Oberfranken,Wunsiedel i. Fichtelgebirge
+1,OV,Bayern,Hof,Naila,ONAI,01.02.1978,Der Ortsbeauftragte für Naila,,Dr. Hans-Künzel-Straße 3,95119,Naila,11.704611,50.323773,Bayern,Oberfranken,Hof
+1,OV,Bayern,Hof,Pegnitz,OPEG,07.09.1962,Der Ortsbeauftragte für Pegnitz,,Zum Dianafelsen 5,91257,Pegnitz,11.525382,49.754508,Bayern,Oberfranken,Bayreuth
+1,OV,Bayern,Hof,Selb,OSEL,27.04.1953,Der Ortsbeauftragte für Selb,,Am Schreinersteich 38,95100,Selb,12.154184,50.173301,Bayern,Oberfranken,Wunsiedel i. Fichtelgebirge
+1,OV,Bayern,Hof,Weiden,OWEN,29.07.1953,Der Ortsbeauftragte für Weiden,,Mooslohstraße 95,92637,Weiden,12.150589,49.686818,Bayern,Oberpfalz,Neustadt a.d. Waldnaab
+1,OV,Bayern,Ingolstadt,Dillingen,ODIL,14.11.1969,Der Ortsbeauftragte für Dillingen,,Hans-Geiger-Straße 5,89407,Dillingen,10.464402,48.577716,Bayern,Schwaben,Dillingen a.d. Donau
+1,OV,Bayern,Ingolstadt,Donauwörth,ODAU,29.09.1953,Der Ortsbeauftragte für Donauwörth,,Schützenring 3,86609,Donauwörth,10.793773,48.713109,Bayern,Schwaben,Donau-Ries
+1,OV,Bayern,Ingolstadt,Eichstätt,OEIC,01.07.1952,Der Ortsbeauftragte für Eichstätt,,Industriestraße 13,85072,Eichstätt,11.196972,48.883351,Bayern,Oberbayern,Eichstätt
+1,OV,Bayern,Ingolstadt,Gunzenhausen,OGUN,11.05.1953,Der Ortsbeauftragte für Gunzenhausen,,Weißenburger Straße 42,91710,Gunzenhausen,10.755918,49.110967,Bayern,Mittelfranken,Weißenburg-Gunzenhausen
+1,OV,Bayern,Ingolstadt,Hilpoltstein,OHIL,25.11.1965,Der Ortsbeauftragte für Hilpoltstein,,Dieselstraße 6,91161,Hilpoltstein,11.18451,49.183677,Bayern,Mittelfranken,Roth
+1,OV,Bayern,Ingolstadt,Ingolstadt,OING,18.03.1953,Der Ortsbeauftragte für Ingolstadt,,Marie-Curie-Straße 33,85055,Ingolstadt,11.482123,48.786696,Bayern,Oberbayern,Ingolstadt
+1,OV,Bayern,Ingolstadt,Neuburg,ONEB,14.01.1955,Der Ortsbeauftragte für Neuburg,,Donauwörther Straße B75,86633,Neuburg,11.166775,48.733121,Bayern,Oberbayern,Neuburg-Schrobenhausen
+1,OV,Bayern,Ingolstadt,Nördlingen,ONDL,01.05.1953,Der Ortsbeauftragte für Nördlingen,,Oettinger Straße 11,86720,Nördlingen,10.504706,48.863537,Bayern,Schwaben,Donau-Ries
+1,OV,Bayern,Ingolstadt,Pfaffenhofen,OPFA,01.06.1980,Der Ortsbeauftragte für Pfaffenhofen,,Martin-Binder-Ring 6,85276,Pfaffenhofen,11.494538,48.521738,Bayern,Oberbayern,Pfaffenhofen a.d. Ilm
+1,OV,Bayern,Ingolstadt,Roth,OROH,22.10.1953,Der Ortsbeauftragte für Roth,,Gildestraße 11,91154,Roth,11.113113,49.246926,Bayern,Mittelfranken,Roth
+1,OV,Bayern,Ingolstadt,Treuchtlingen,OTRT,01.05.1953,Der Ortsbeauftragte für Treuchtlingen,,Gstadter Straße 30,91757,Treuchtlingen,10.911122,48.971016,Bayern,Mittelfranken,Weißenburg-Gunzenhausen
+1,OV,Bayern,Karlstadt,Alzenau,OALZ,01.04.1973,Der Ortsbeauftragte für Alzenau,,Siemensstraße 4,63755,Alzenau,9.059109,50.094738,Bayern,Unterfranken,Aschaffenburg
+1,OV,Bayern,Karlstadt,Aschaffenburg,OABG,18.01.1952,Der Ortsbeauftragte für Aschaffenburg,,Wendelbergstraße 30,63739,Aschaffenburg,9.175364,49.966399,Bayern,Unterfranken,Aschaffenburg
+1,OV,Bayern,Karlstadt,Karlstadt,OKGM,01.05.1953,Der Ortsbeauftragte für Karlstadt,,Julius-Echter-Straße 93,97753,Karlstadt,9.780438,49.9686,Bayern,Unterfranken,Main-Spessart
+1,OV,Bayern,Karlstadt,Kitzingen,OKIT,23.03.1953,Der Ortsbeauftragte für Kitzingen,,An der Staustufe 2,97318,Kitzingen,10.155348,49.723983,Bayern,Unterfranken,Kitzingen
+1,OV,Bayern,Karlstadt,Lohr,OLOH,16.07.1953,Der Ortsbeauftragte für Lohr,,Walter-Senger-Straße 1,97816,Lohr a. Main,9.580074,50.002767,Bayern,Unterfranken,Main-Spessart
+1,OV,Bayern,Karlstadt,Marktheidenfeld,OMHD,25.04.1970,Der Ortsbeauftragte für Marktheidenfeld,,Marienbrunner Straße 37,97840,Hafenlohr,9.593342,49.865636,Bayern,Unterfranken,Main-Spessart
+1,OV,Bayern,Karlstadt,Miltenberg,OMIL,28.07.1953,Der Ortsbeauftragte für Miltenberg,,Fährweg 43,63897,Miltenberg,9.242624,49.704719,Bayern,Unterfranken,Miltenberg
+1,OV,Bayern,Karlstadt,Obernburg,OOBG,24.10.1952,Der Ortsbeauftragte für Obernburg,,Im Weidig 22,63785,Obernburg,9.12288,49.833323,Bayern,Unterfranken,Miltenberg
+1,OV,Bayern,Karlstadt,Ochsenfurt,OOCH,09.03.1969,Der Ortsbeauftragte für Ochsenfurt,,Wiesenweg 1,97199,Ochsenfurt,10.02905,49.682524,Bayern,Unterfranken,Würzburg
+1,OV,Bayern,Karlstadt,Würzburg,OWUE,16.08.1952,Der Ortsbeauftragte für Würzburg,,Schweinfurter Straße 13,97080,Würzburg,9.948166,49.799222,Bayern,Unterfranken,Würzburg
+1,OV,Bayern,Kempten,Füssen,OFSS,15.07.1952,Der Ortsbeauftragte für Füssen,,Leinenweberstraße 11,87629,Füssen,10.682356,47.567092,Bayern,Schwaben,Ostallgäu
+1,OV,Bayern,Kempten,Günzburg,OGUE,01.05.1952,Der Ortsbeauftragte für Günzburg,,Waldsiedlung 3/3 a,89359,Kleinkötz,10.294965,48.419091,Bayern,Schwaben,Günzburg
+1,OV,Bayern,Kempten,Kaufbeuren,OKAU,15.10.1954,Der Ortsbeauftragte für Kaufbeuren,,Buronstraße 19,87600,Kaufbeuren,10.631565,47.891615,Bayern,Schwaben,Kaufbeuren
+1,OV,Bayern,Kempten,Kempten,OKEM,19.05.1954,Der Ortsbeauftragte für Kempten,,Memminger Straße 126,87439,Kempten (Allgäu),10.308245,47.740996,Bayern,Schwaben,Kempten (Allgäu)
+1,OV,Bayern,Kempten,Krumbach,OKRU,03.07.1953,Der Ortsbeauftragte für Krumbach,,Wiesenweg 4,86381,Krumbach,10.354046,48.253085,Bayern,Schwaben,Günzburg
+1,OV,Bayern,Kempten,Lindau,OLIN,01.10.1955,Der Ortsbeauftragte für Lindau,,Heuriedweg 69,88131,Lindau,9.718623,47.554181,Bayern,Schwaben,Lindau (Bodensee)
+1,OV,Bayern,Kempten,Lindenberg,OLID,01.02.1978,Der Ortsbeauftragte für Lindenberg,,Goßholz 2b,88161,Lindenberg i. Allgäu,9.904193,47.613409,Bayern,Schwaben,Lindau (Bodensee)
+1,OV,Bayern,Kempten,Memmingen,OMEM,10.05.1955,Der Ortsbeauftragte für Memmingen,,Grönenbacher Straße 11,87700,Memmingen,10.183781,47.961698,Bayern,Schwaben,Memmingen
+1,OV,Bayern,Kempten,Neu-Ulm,ONUL,26.05.1972,Der Ortsbeauftragte für Neu-Ulm,,Reuttier Straße 122 1/2,89231,Neu-Ulm,10.0103703556891,48.3765608238313,Bayern,Schwaben,Neu-Ulm
+1,OV,Bayern,Kempten,Sonthofen,OSHF,01.09.1953,Der Ortsbeauftragte für Sonthofen,,Falkenstraße 50,87527,Sonthofen,10.267657,47.528912,Bayern,Schwaben,Oberallgäu
+1,OV,Bayern,Mühldorf,Altötting,OATG,10.11.1967,Der Ortsbeauftragte für Altötting,,Eisenfelden 66,84543,Winhöring,12.688862,48.257438,Bayern,Oberbayern,Altötting
+1,OV,Bayern,Mühldorf,Berchtesgadener Land,OBGL,13.10.1953,Der Ortsbeauftragte für Berchtesgadener Land,,Industriestraße 6,83404,Ainring,12.956603,47.819733,Bayern,Oberbayern,Berchtesgadener Land
+1,OV,Bayern,Mühldorf,Eggenfelden,OEGG,12.03.1957,Der Ortsbeauftragte für Eggenfelden,,Lauterbachstraße 63,84307,Eggenfelden,12.7441416,48.398693,Bayern,Niederbayern,Rottal-Inn
+1,OV,Bayern,Mühldorf,Ergolding,OERG,01.04.1988,Der Ortsbeauftragte für Ergolding,,Hütwiesstraße 2-4,84030,Ergolding,12.175014,48.572862,Bayern,Niederbayern,Landshut
+1,OV,Bayern,Mühldorf,Landshut,OLHT,24.10.1952,Der Ortsbeauftragte für Landshut,,Alte Regensburger Straße 16,84030,Landshut,12.160275,48.54884,Bayern,Niederbayern,Landshut
+1,OV,Bayern,Mühldorf,Mühldorf,OMDF,15.10.1952,Der Ortsbeauftragte für Mühldorf,,Färberstraße 13,84453,Mühldorf,12.504246,48.247446,Bayern,Oberbayern,Mühldorf a. Inn
+1,OV,Bayern,Mühldorf,Simbach,OSIM,23.03.1953,Der Ortsbeauftragte für Simbach,,Austraße 21,84359,Simbach,13.035051,48.26535,Bayern,Niederbayern,Rottal-Inn
+1,OV,Bayern,Mühldorf,Traunreut,OTRA,01.04.1972,Der Ortsbeauftragte für Traunreut,,Berndlring 8,83352,Altenmarkt a.d. Alz,12.54212,47.98638,Bayern,Oberbayern,Traunstein
+1,OV,Bayern,Mühldorf,Traunstein,OTST,17.07.1952,Der Ortsbeauftragte für Traunstein,,Scheibenstraße 19 C,83278,Traunstein,12.652587,47.870983,Bayern,Oberbayern,Traunstein
+1,OV,Bayern,München,Augsburg,OAUG,20.11.1951,Der Ortsbeauftragte für Augsburg,,Depotstraße 11,86199,Augsburg,10.883266,48.349936,Bayern,Schwaben,Augsburg
+1,OV,Bayern,München,Dachau,ODAH,01.06.1969,Der Ortsbeauftragte für Dachau,,Neufeldstraße 4,85232,Bergkirchen,11.394612,48.250874,Bayern,Oberbayern,Dachau
+1,OV,Bayern,München,Freising,OFSI,14.02.1953,Der Ortsbeauftragte für Freising,,Sondermüllerweg 12,85354,Freising,11.747567,48.398539,Bayern,Oberbayern,Freising
+1,OV,Bayern,München,Friedberg,OFRI,04.10.1972,Der Ortsbeauftragte für Friedberg,,Afrastraße 65 h,86316,Friedberg,10.975922,48.348408,Bayern,Schwaben,Aichach-Friedberg
+1,OV,Bayern,München,Fürstenfeldbruck,OFFB,21.03.1953,Der Ortsbeauftragte für Fürstenfeldbruck,,Am Hardtanger 3,82256,Fürstenfeldbruck,11.250602,48.194554,Bayern,Oberbayern,Fürstenfeldbruck
+1,OV,Bayern,München,Markt Schwaben,OMAS,27.08.1968,Der Ortsbeauftragte für Markt Schwaben,,Hanslmühle 1,85570,Markt Schwaben,11.881623,48.194828,Bayern,Oberbayern,Ebersberg
+1,OV,Bayern,München,München-Land,OMUL,01.07.1974,Der Ortsbeauftragte für München-Land,,Vockestraße 40,85540,Haar,11.742033,48.110583,Bayern,Oberbayern,München
+1,OV,Bayern,München,München-Mitte,OMUM,01.01.1952,Der Ortsbeauftragte für München-Mitte,,Schleißheimer Str. 387,80935,München,11.562223,48.198629,Bayern,Oberbayern,München
+1,OV,Bayern,München,München-Ost,OMUO,01.01.1952,Der Ortsbeauftragte für München-Ost,,Unterbibergerstraße 5,81737,München,11.628619,48.093372,Bayern,Oberbayern,München
+1,OV,Bayern,München,München-West,OMUW,01.01.1952,Der Ortsbeauftragte für München-West,,Ubostraße 7,81245,München,11.41376,48.156825,Bayern,Oberbayern,München
+1,OV,Bayern,München,Schwabmünchen,OSWM,17.04.1973,Der Ortsbeauftragte für Schwabmünchen,,Augsburgerstraße 59,86830,Schwabmünchen,10.753511,48.193599,Bayern,Schwaben,Augsburg
+1,OV,Bayern,Nürnberg,Ansbach,OANS,01.05.1953,Der Ortsbeauftragte für Ansbach,,Industriestraße 22,91522,Ansbach,10.61129,49.291571,Bayern,Mittelfranken,Ansbach
+1,OV,Bayern,Nürnberg,Baiersdorf,OBAI,01.01.1953,Der Ortsbeauftragte für Baiersdorf,,Königsbergerstraße 32,91083,Baiersdorf,11.042035,49.666424,Bayern,Mittelfranken,Erlangen-Höchstadt
+1,OV,Bayern,Nürnberg,Dinkelsbühl,ODIN,20.05.1953,Der Ortsbeauftragte für Dinkelsbühl,,Breslauer Straße 8,91550,Dinkelsbühl,10.338926,49.067162,Bayern,Mittelfranken,Ansbach
+1,OV,Bayern,Nürnberg,Erlangen,OERL,26.08.1952,Der Ortsbeauftragte für Erlangen,,Zimmermannsgasse 14,91058,Erlangen,10.98906,49.572821,Bayern,Mittelfranken,Erlangen
+1,OV,Bayern,Nürnberg,Feuchtwangen,OFEU,01.08.1969,Der Ortsbeauftragte für Feuchtwangen,,Banzenweiler 24,91555,Feuchtwangen,10.310024,49.196053,Bayern,Mittelfranken,Ansbach
+1,OV,Bayern,Nürnberg,Fürth,OFUE,10.01.1953,Der Ortsbeauftragte für Fürth,,Mainstraße 43,90768,Fürth,10.952168,49.502986,Bayern,Mittelfranken,Fürth
+1,OV,Bayern,Nürnberg,Neustadt a.d.A.,ONDA,01.11.1953,Der Ortsbeauftragte für Neustadt,,Robert-Bosch-Straße 18,91413,Neustadt a.d. Aisch,10.639518,49.581634,Bayern,Mittelfranken,Neustadt a.d.Aisch-Bad Windshe
+1,OV,Bayern,Nürnberg,Nürnberg,ONNS,01.07.1950,Der Ortsbeauftragte für Nürnberg,,Tillypark 200,90431,Nürnberg,11.034308,49.435229,Bayern,Mittelfranken,Nürnberg
+1,OV,Bayern,Nürnberg,Rothenburg,ORTH,03.10.1953,Der Ortsbeauftragte für Rothenburg,,Laiblestraße 26,91541,Rothenburg,10.189792,49.382529,Bayern,Mittelfranken,Ansbach
+1,OV,Bayern,Nürnberg,Schwabach,OSWA,23.02.1953,Der Ortsbeauftragte für Schwabach,,Roßtaler Straße 13,91126,Schwabach,11.013657,49.338891,Bayern,Mittelfranken,Schwabach
+1,OV,Bayern,Schwandorf,Amberg,OAMB,10.03.1953,Der Ortsbeauftragte für Amberg,,Drahthammerstraße 28,92224,Amberg,11.871029,49.434316,Bayern,Oberpfalz,Amberg
+1,OV,Bayern,Schwandorf,Cham,OCAM,13.06.1970,Der Ortsbeauftragte für Cham,,Osserstraße 1,93413,Cham,12.672104,49.226184,Bayern,Oberpfalz,Cham
+1,OV,Bayern,Schwandorf,Lauf,OLAF,10.04.1952,Der Ortsbeauftragte für Lauf a.d. Pegnitz,,Beethovenstraße 8,91207,Lauf a.d. Pegnitz,11.265612,49.519799,Bayern,Mittelfranken,Nürnberger Land
+1,OV,Bayern,Schwandorf,Nabburg,ONAB,05.09.1964,Der Ortsbeauftragte für Nabburg,,Fichtenbühl 1,92507,Nabburg,12.158846,49.447591,Bayern,Oberpfalz,Schwandorf
+1,OV,Bayern,Schwandorf,Neumarkt,ONMK,29.04.1971,Der Ortsbeauftragte für Neumarkt,,Gößweinstraße 2 a,92318,Neumarkt,11.48304,49.257134,Bayern,Oberpfalz,Neumarkt i.d. OPf.
+1,OV,Bayern,Schwandorf,Neunburg v.W.,ONVW,06.05.1957,Der Ortsbeauftragte für Neunburg v.W.,,Äußere Neukirchner Straße 4,92431,Neunburg v.W.,12.391814,49.338115,Bayern,Oberpfalz,Schwandorf
+1,OV,Bayern,Schwandorf,Oberviechtach,OOVI,09.04.1969,Der Ortsbeauftragte für Oberviechtach,,Schönseer Straße 57,92526,Oberviechtach,12.435341,49.465829,Bayern,Oberpfalz,Schwandorf
+1,OV,Bayern,Schwandorf,Parsberg,OPAR,01.05.1953,Der Ortsbeauftragte für Parsberg,,Industriestraße 8,92331,Parsberg,11.727455,49.163873,Bayern,Oberpfalz,Neumarkt i.d. OPf.
+1,OV,Bayern,Schwandorf,Roding,OROD,11.01.1963,Der Ortsbeauftragte für Roding,,Pfarrheideweg 6,93426,Roding,12.510991,49.213185,Bayern,Oberpfalz,Cham
+1,OV,Bayern,Schwandorf,Schwandorf,OSDF,12.08.1953,Der Ortsbeauftragte für Schwandorf,,Schlachthofgasse 6,92421,Schwandorf,12.100775,49.329907,Bayern,Oberpfalz,Schwandorf
+1,OV,Bayern,Schwandorf,Sulzbach/Rosenberg,OSUL,15.03.1953,Der Ortsbeauftragte für Sulzbach/Rosenberg,,Konrad-Mayer-Straße 28,92237,Sulzbach-Rosenberg,11.752608,49.497329,Bayern,Oberpfalz,Amberg-Sulzbach
+1,OV,Bayern,Straubing,Bogen,OBOG,28.02.1969,Der Ortsbeauftragte für Bogen,,Petersgewanne 7,94327,Bogen,12.62535095,48.94764624,Bayern,Niederbayern,Straubing-Bogen
+1,OV,Bayern,Straubing,Deggendorf,ODEG,01.05.1953,Der Ortsbeauftragte für Deggendorf,,Otto-Denk-Straße 11,94469,Deggendorf,12.95375,48.835482,Bayern,Niederbayern,Deggendorf
+1,OV,Bayern,Straubing,Kelheim,OKHM,01.07.1953,Der Ortsbeauftragte für Kelheim,,Schützenstraße 9,93309,Kelheim,11.872792,48.909758,Bayern,Niederbayern,Kelheim
+1,OV,Bayern,Straubing,Laaber,OLAB,17.01.1973,Der Ortsbeauftragte für Laaber,,Am Kalvarienberg 12,93164,Laaber,11.887592,49.060422,Bayern,Oberpfalz,Regensburg
+1,OV,Bayern,Straubing,Mallersdorf,OMAL,17.11.1964,Der Ortsbeauftragte für Mallersdorf,,Hochstraße-Neuhofen,84082,Laberweinting,12.3056906412873,48.7901384583987,Bayern,Niederbayern,Straubing-Bogen
+1,OV,Bayern,Straubing,Passau,OPAS,21.01.1953,Der Ortsbeauftragte für Passau,,Regensburger Straße 15,94036,Passau,13.423001,48.573228,Bayern,Niederbayern,Passau
+1,OV,Bayern,Straubing,Regen,OREG,01.02.1978,Der Ortsbeauftragte für Regen,,St. Johann 26,94209,Regen,13.107128,48.967745,Bayern,Niederbayern,Regen
+1,OV,Bayern,Straubing,Regensburg,ORSB,01.05.1952,Der Ortsbeauftragte für Regensburg,,Bukarester Straße 7,93055,Regensburg,12.14913,49.015239,Bayern,Oberpfalz,Regensburg
+1,OV,Bayern,Straubing,Straubing,OSTR,13.03.1953,Der Ortsbeauftragte für Straubing,,Äußere Frühlingstraße 57d,94315,Straubing,12.576797,48.871207,Bayern,Niederbayern,Straubing
+1,OV,Bayern,Straubing,Vilshofen,OVIL,01.11.1973,Der Ortsbeauftragte für Vilshofen,,Allinger Straße 19,94474,Vilshofen,13.176927,48.613162,Bayern,Niederbayern,Passau
+1,OV,Bayern,Straubing,Wörth,OWOE,01.11.1978,Der Ortsbeauftragte für Wörth,,Im Haslet 36-38,93086,Wörth a.d. Donau,12.39095,48.998886,Bayern,Oberpfalz,Regensburg
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Charlottenburg-Wilmersdorf,OCHA,01.08.1952,Die Ortsbeauftragte für Berlin Charlottenburg-Wilmersdorf,,Soorstraße 84,14050,Berlin,13.279033,52.516592,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Friedrichshain-Kreuzberg,OFRK,10.04.1994,Der Ortsbeauftragte für Berlin Friedrichshain-Kreuzberg,,General-Pape-Straße 30,12101,Berlin,13.368129,52.477223,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Lichtenberg,OLIC,20.10.1991,Der Ortsbeauftragte für Berlin Lichtenberg,,Meeraner Straße 15 B,12681,Berlin,13.524474,52.52768,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Marzahn-Hellersdorf,OMZH,27.03.1996,Der Ortsbeauftragte für Berlin Marzahn-Hellersdorf,,Märkische Spitze 19,12681,Berlin,13.540989,52.520564,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Neukölln,ONKO,30.09.1951,Der Ortsbeauftragte für Berlin Neukölln,,Haarlemer Straße 73,12359,Berlin,13.454951,52.45426,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Pankow,OPKW,03.12.1992,Der Ortsbeauftragte für Berlin Pankow,,Wiltbergstraße 29G,13125,Berlin,13.486971,52.629969,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Reinickendorf,OREI,01.07.1952,Der Ortsbeauftragte für Berlin Reinickendorf,,Flottenstraße 14 - 20,13407,Berlin,13.352515,52.578152,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Spandau,OSPA,15.04.1952,Der Ortsbeauftragte für Berlin Spandau,,Neuendorfer Straße 67-69,13585,Berlin,13.209192,52.55179,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin Treptow-Köpenick,OTRE,01.01.1991,Der Ortsbeauftragte für Berlin Treptow-Köpenick,,Groß-Berliner Damm 82 A,12487,Berlin,13.519408,52.442681,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Berlin,Berlin-Mitte,OBEM,15.04.1952,Der Ortsbeauftragte für Berlin-Mitte,,Walderseestraße 23-24,13407,Berlin,13.362565,52.560832,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Cottbus,OCOT,15.11.1991,Der Ortsbeauftragte für Cottbus,,Burger Chaussee 11,3044,Cottbus,14.300606,51.776643,Brandenburg, ,Cottbus
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Eberswalde,OEBW,01.12.1996,Der Ortsbeauftragte für Eberswalde,,Carl-Zeiss-Straße 2,16225,Eberswalde,13.768095,52.855084,Brandenburg, ,Barnim
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Forst (Lausitz),OFOT,29.09.1995,Der Ortsbeauftragte für Forst (Lausitz),,Gubener Straße 12,3149,Forst (Lausitz),14.6471,51.74822,Brandenburg, ,Spree-Neiße
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Frankfurt (Oder),OFDR,26.10.1991,Der Ortsbeauftragte für Frankfurt (Oder),,Mozartstraße 12a,15234,Frankfurt (Oder),14.491022,52.352745,Brandenburg, ,Frankfurt (Oder)
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Fürstenwalde/Spree,OFWD,13.12.1991,Der Ortsbeauftragte für Fürstenwalde/Spree,,Am Fuchsbau 10 ,15526,Bad Saarow,14.064595,52.328875,Brandenburg, ,Oder-Spree
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Lübben (Spreewald),OLUB,18.12.1992,Der Ortsbeauftragte für Lübben (Spreewald),,Berliner Chaussee 20,15907,Lübben/Spreewald,13.880284,51.947005,Brandenburg, ,Dahme-Spreewald
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Prenzlau,OPRE,06.03.1997,Der Ortsbeauftragte für Prenzlau,,Berliner Straße 24,17291,Prenzlau,13.822738,53.303157,Brandenburg, ,Uckermark
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Seelow,OSEE,06.11.1992,Der Ortsbeauftragte für Seelow,,An der Wendestelle 1,15306,Seelow,14.371315,52.535358,Brandenburg, ,Märkisch-Oderland
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Frankfurt (Oder),Senftenberg,OSFG,18.06.1999,Der Ortsbeauftragte für Senftenberg,,Windmühlenweg 1,1968,Senftenberg,13.990188,51.521575,Brandenburg, ,Oberspreewald-Lausitz
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Dessau,ODES,28.11.1991,Der Ortsbeauftragte für Dessau,,Alte Landebahn 6,6846,Dessau - Roßlau,12.210325,51.832082,Sachsen-Anhalt, ,Dessau - Roßlau
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Halle (Saale),OHSK,20.02.1992,Der Ortsbeauftragte für Halle (Saale),,Murmansker Straße 15,6130,Halle (Saale),11.968584,51.451458,Sachsen-Anhalt, ,Halle (Saale)
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Merseburg,OMER,28.11.1998,Der Ortsbeauftragte für Merseburg,,Fischweg 16,6217,Merseburg (Saale),11.9685425,51.3730852,Sachsen-Anhalt, ,Merseburg-Querfurt
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Naumburg,ONAU,01.05.1994,Der Ortsbeauftragte für Naumburg,,Grochlitzer Straße 26,6618,Naumburg,11.823466,51.153962,Sachsen-Anhalt, ,Burgenlandkreis
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Sangerhausen,OSAN,26.11.1992,Der Ortsbeauftragte für Sangerhausen,,Stiftsweg 6,6526,Sangerhausen,11.270946,51.466412,Sachsen-Anhalt, ,Sangerhausen
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Weißenfels,OWFS,01.11.1992,Der Ortsbeauftragte für Weißenfels,,Hallesche Straße 22,6679,Zorbau,12.01203,51.18347,Sachsen-Anhalt, ,Weißenfels
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Wittenberg,OWIT,30.11.1991,Der Ortsbeauftragte für Wittenberg,,Fabrikstraße 3,6886,Lutherstadt Wittenberg,12.686011,51.866256,Sachsen-Anhalt, ,Wittenberg
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Halle,Wolfen-Bitterfeld,OWBD,12.11.1992,Der Ortsbeauftragte für Wolfen-Bitterfeld,,Liebigstraße 2,6766,Bitterfeld-Wolfen,7.671524,49.434628,Sachsen-Anhalt, ,Bitterfeld
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Bernburg,OBBG,15.06.1993,Der Ortsbeauftragte für Bernburg,,Köthensche Straße 54,6406,Bernburg (Saale),11.81211,51.743328,Sachsen-Anhalt, ,Bernburg
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Burg,OBUG,24.10.1992,Der Ortsbeauftragte für Burg,,Am Erkenthierfeld 1,39288,Burg,11.881812,52.275589,Sachsen-Anhalt, ,Jerichower Land
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Calbe,OCAB,01.01.1996,Der Ortsbeauftragte für Calbe,,Pappelweg 3,39240,Calbe (Saale),11.794317,51.918365,Sachsen-Anhalt, ,Schönebeck
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Halberstadt,OHAT,29.06.1991,Der Ortsbeauftragte für Halberstadt,,Friedrich-List-Straße 16,38820,Halberstadt,11.054196,51.865371,Sachsen-Anhalt, ,Halberstadt
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Haldensleben,OHLD,02.12.1996,Der Ortsbeauftragte für Haldensleben,,J.-G.-Nathusius-Straße 6,39340,Haldensleben,11.436308,52.280327,Sachsen-Anhalt, ,Ohrekreis
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Magdeburg,OMBG,16.11.1991,Der Ortsbeauftragte für Magdeburg,,An der Enckekaserne 7,39110,Magdeburg,11.592855,52.122403,Sachsen-Anhalt, ,Magdeburg
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Oschersleben,OOSC,10.12.1998,Der Ortsbeauftragte für Oschersleben,,Am Eulenbruch 1,39387,Oschersleben (Bode),11.24245837,52.0295863710868,Sachsen-Anhalt, ,Bördekreis
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Quedlinburg,OQBG,07.12.1991,Der Ortsbeauftragte für Quedlinburg,,An der Maßmühle 2,6502,Weddersleben,11.0849285431755,51.764798189415,Sachsen-Anhalt, ,Quedlinburg
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Salzwedel,OSZD,01.12.1993,Der Ortsbeauftragte für Salzwedel,,Siedlung des Friedens 37,29410,Salzwedel,11.193991,52.832984,Sachsen-Anhalt, ,Altmarkkreis Salzwedel
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Staßfurt,OSTF,15.05.1992,Der Ortsbeauftragte für Staßfurt,,Maybachstraße 8,39418,Staßfurt,11.60209,51.857123,Sachsen-Anhalt, ,Aschersleben-Staßfurt
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Magdeburg,Stendal,OSTL,01.11.1994,Der Ortsbeauftragte für Stendal,,Gardelegener Straße 120,39576,Stendal,11.826325,52.580236,Sachsen-Anhalt, ,Stendal
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Bad Belzig,OBLG,01.06.2002,Der Ortsbeauftragte für Bad Belzig,,Im Gewerbegebiet Seedoche 20,14806,Bad Belzig,12.588595540146,52.1629849604621,Brandenburg, ,Potsdam-Mittelmark
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Berlin Steglitz-Zehlendorf,OSTZ,01.06.1952,Der Ortsbeauftragte für Berlin Steglitz-Zehlendorf,,Gallwitzallee 123-143,12249,Berlin,13.350352,52.424863,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Berlin Tempelhof-Schöneberg,OTES,01.06.1952,Der Ortsbeauftragte für Berlin Tempelhof-Schöneberg,,Gallwitzallee 123-143 Haus 13,12249,Berlin,13.350352,52.424863,Berlin, ,Berlin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Brandenburg an der Havel,OBDT,07.03.1997,Der Ortsbeauftragte für Brandenburg an der Havel,,Am Fliegerhorst Haus 15,14772,Brandenburg an der Havel,12.454012,52.425251,Brandenburg, ,Brandenburg an der Havel
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Gransee,OGEE,22.12.1992,Der Ortsbeauftragte für Gransee,,Hellbergerstraße 13,16792,Zehdenick OT Osterne,13.110484,52.969541,Brandenburg, ,Oberhavel
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Herzberg,OHZG,01.01.1998,Der Ortsbeauftragte für Herzberg,,An den Steinenden 15 b,4916,Herzberg/Elster,13.215955,51.676725,Brandenburg, ,Elbe-Elster
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Luckenwalde,OLUC,17.12.1993,Der Ortsbeauftragte für Luckenwalde,,Frankenfelder Chaussee  1 A,14943,Luckenwalde,13.137935,52.097686,Brandenburg, ,Teltow-Fläming
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Neuruppin,ORUP,14.12.1993,Der Ortsbeauftragte für Neuruppin,,H.-Riemschneider-Straße 1,16816,Neuruppin,12.789608,52.875536,Brandenburg, ,Ostprignitz-Ruppin
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Potsdam,OPOT,19.11.1992,Der Ortsbeauftragte für Potsdam,,Heinrich-Zille-Straße 2,14532,Stahnsdorf,13.195539,52.385822,Brandenburg, ,Potsdam-Mittelmark
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Rathenow,ORAT,16.11.1991,Der Ortsbeauftragte für Rathenow,,Semliner Straße 130,14712,Rathenow,12.35334,52.628511,Brandenburg, ,Havelland
+1,OV,"Berlin, Brandenburg, Sachsen-Anhalt",Potsdam,Wittenberge,OWTT,30.11.1991,Der Ortsbeauftragte für Wittenberge,,Lenzener Straße 1a,19322,Cumlosen,11.645298,53.040914,Brandenburg, ,Prignitz
+1,OV,"Bremen, Niedersachsen",Braunschweig,Braunschweig,OBRA,15.08.1952,Der Ortsbeauftragte für Braunschweig,,Ludwig-Winter-Straße 11,38120,Braunschweig,10.494947,52.251018,Niedersachsen, ,Braunschweig
+1,OV,"Bremen, Niedersachsen",Braunschweig,Elze,OELZ,01.01.1977,Der Ortsbeauftragte für Elze,,Albert-Einstein-Straße 2,31008,Elze,9.733715,52.1115,Niedersachsen, ,Hildesheim
+1,OV,"Bremen, Niedersachsen",Braunschweig,Gifhorn,OGIF,01.04.1952,Der Ortsbeauftragte für Gifhorn,,Im Heidland 4,38518,Gifhorn,10.529812,52.467269,Niedersachsen, ,Gifhorn
+1,OV,"Bremen, Niedersachsen",Braunschweig,Helmstedt,OHEM,01.01.1953,Der Ortsbeauftragte für Helmstedt,,Landgrabentrift 2a,38350,Helmstedt,11.027016,52.231018,Niedersachsen, ,Helmstedt
+1,OV,"Bremen, Niedersachsen",Braunschweig,Hildesheim,OHDH,15.08.1952,Der Ortsbeauftragte für Hildesheim,,Ruscheplatenstraße 26,31137,Hildesheim,9.92637,52.178067,Niedersachsen, ,Hildesheim
+1,OV,"Bremen, Niedersachsen",Braunschweig,Peine,OPEI,01.12.1952,Der Ortsbeauftragte für Peine,,Dorfstraße 15,31226,Peine,10.20911,52.293821,Niedersachsen, ,Peine
+1,OV,"Bremen, Niedersachsen",Braunschweig,Salzgitter,OSAL,01.01.1952,Der Ortsbeauftragte für Salzgitter,,Hinter dem Knick 48a,38229,Salzgitter,10.337111,52.134149,Niedersachsen, ,Salzgitter
+1,OV,"Bremen, Niedersachsen",Braunschweig,Sarstedt,OSAR,01.01.1952,Der Ortsbeauftragte für Sarstedt,,Glückaufstraße 2,31157,Sarstedt,9.84681,52.23,Niedersachsen, ,Hildesheim
+1,OV,"Bremen, Niedersachsen",Braunschweig,Schöningen,OSIG,01.01.1952,Der Ortsbeauftragte für Schöningen,,Lange Trift 1 b,38364,Schöningen,10.971038,52.129633,Niedersachsen, ,Helmstedt
+1,OV,"Bremen, Niedersachsen",Braunschweig,Wolfenbüttel,OWOL,13.01.1953,Der Ortsbeauftragte für Wolfenbüttel,,Dietrich-Bonhoeffer-Straße 10,38300,Wolfenbüttel,10.551808,52.159809,Niedersachsen, ,Wolfenbüttel
+1,OV,"Bremen, Niedersachsen",Braunschweig,Wolfsburg,OWLF,30.08.1952,Der Ortsbeauftragte für Wolfsburg,,Dieselstraße 16,38446,Wolfsburg,10.801721,52.42677,Niedersachsen, ,Wolfsburg
+1,OV,"Bremen, Niedersachsen",Bremen,Bremen Mitte,OHBM,01.11.1962,Der Ortsbeauftragte für Bremen-Mitte,,Kleiner Ort 4,28357,Bremen,8.881785,53.109257,Bremen, ,Bremen
+1,OV,"Bremen, Niedersachsen",Bremen,Bremen Nord,OHBN,01.06.1958,Der Ortsbeauftragte für Bremen-Nord,,Togostraße 44,28239,Bremen,8.742735,53.125326,Bremen, ,Bremen
+1,OV,"Bremen, Niedersachsen",Bremen,Bremen Ost,OHBO,01.01.1958,Der Ortsbeauftragte für Bremen-Ost,,Osterholzer Heerstraße 75a,28307,Bremen,8.928456,53.058324,Bremen, ,Bremen
+1,OV,"Bremen, Niedersachsen",Bremen,Bremen Süd,OHBS,01.01.1958,Der Ortsbeauftragte für Bremen-Süd,,Seesenthom 2,28201,Bremen,8.819219,53.056751,Bremen, ,Bremen
+1,OV,"Bremen, Niedersachsen",Bremen,Bremerhaven,OHBV,03.09.1952,Der Ortsbeauftragte für Bremerhaven,,Batteriestraße 100,27576,Bremerhaven,8.570439,53.563647,Bremen, ,Bremerhaven
+1,OV,"Bremen, Niedersachsen",Bremen,Cuxhaven,OCUX,22.08.1952,Der Ortsbeauftragte für Cuxhaven,,Humphry-Davy-Straße 39,27472,Cuxhaven,8.707449,53.846864,Niedersachsen, ,Cuxhaven
+1,OV,"Bremen, Niedersachsen",Bremen,Delmenhorst,ODEL,01.01.1953,Der Ortsbeauftragte für Delmenhorst,,Friedrich-Ebert-Allee 11a,27749,Delmenhorst,8.636041,53.048521,Niedersachsen, ,Delmenhorst
+1,OV,"Bremen, Niedersachsen",Bremen,Hude-Bookholzberg,OHUD,18.08.1961,Der Ortsbeauftragte für Hude-Bookholzberg,,Harmenhauser Straße 3,27777,Ganderkesee,8.531939,53.099628,Niedersachsen, ,Oldenburg
+1,OV,"Bremen, Niedersachsen",Bremen,Osterh.-Scharmbeck,OBEC,09.12.1952,Der Ortsbeauftragte für Osterholz-Scharmbeck,,Am Binnenfeld 7,27711,Osterholz-Scharmbeck,8.816495,53.234604,Niedersachsen, ,Osterholz
+1,OV,"Bremen, Niedersachsen",Bremen,Wardenburg,OWAR,06.05.1964,Der Ortsbeauftragte für Wardenburg,,Rheinstraße 16,26203,Wardenburg,8.198402,53.050647,Niedersachsen, ,Oldenburg
+1,OV,"Bremen, Niedersachsen",Buxtehude,Buxtehude,OBUX,01.05.1952,Der Ortsbeauftragte für Buxtehude,,Helga-Wex-Platz 2,21614,Buxtehude,9.682378,53.4617,Niedersachsen, ,Stade
+1,OV,"Bremen, Niedersachsen",Buxtehude,Kutenholz,OKUT,01.09.1962,Der Ortsbeauftragte für Kutenholz,,Heerloge 43,27449,Kutenholz,9.305283,53.499938,Niedersachsen, ,Stade
+1,OV,"Bremen, Niedersachsen",Buxtehude,Lüchow-Dannenberg,OLDB,01.03.1965,Der Ortsbeauftragte für Lüchow-Dannenberg,,Konsul-Wester-Straße 12,29439,Lüchow (Wendland),11.166852,52.975896,Niedersachsen, ,Lüchow-Dannenberg
+1,OV,"Bremen, Niedersachsen",Buxtehude,Lüneburg,OLUE,30.10.1952,Der Ortsbeauftragte für Lüneburg,,Dorette-von-Stern-Str. 1,21337,Lüneburg,10.423004,53.254043,Niedersachsen, ,Lüneburg
+1,OV,"Bremen, Niedersachsen",Buxtehude,Rotenburg,ORTB,01.09.1952,Der Ortsbeauftragte für Rotenburg,,Zum Flugplatz 40,27356,Rotenburg,9.354606,53.13156,Niedersachsen, ,Rotenburg (Wümme)
+1,OV,"Bremen, Niedersachsen",Buxtehude,Stade,OSTD,01.04.1952,Der Ortsbeauftragte für Stade,,Ohle Kamp 8,21684,Stade,9.407288,53.57955,Niedersachsen, ,Stade
+1,OV,"Bremen, Niedersachsen",Buxtehude,Stelle-Winsen,OSTW,01.11.1962,Der Ortsbeauftragte für Stelle-Winsen,,Alte Lüneburger Straße 51,21435,Stelle,10.130902,53.374832,Niedersachsen, ,Harburg
+1,OV,"Bremen, Niedersachsen",Buxtehude,Uelzen,OUEL,01.04.1952,Der Ortsbeauftragte für Uelzen,,Bohldamm 67,29525,Uelzen,10.544192,52.961803,Niedersachsen, ,Uelzen
+1,OV,"Bremen, Niedersachsen",Göttingen,Bad Lauterberg,OBLB,09.07.1952,Der Ortsbeauftragte für Bad Lauterberg,,Bahnhofstraße 5-7,37431,Bad Lauterberg,10.46488,51.625572,Niedersachsen, ,Osterode am Harz
+1,OV,"Bremen, Niedersachsen",Göttingen,Clausthal-Zellerfeld,OCLZ,23.05.1952,Der Ortsbeauftragte für Clausthal-Zellerfeld,,Altenbraker Ring 2,38678,Clausthal-Zellerfeld,10.358099,51.805982,Niedersachsen, ,Goslar
+1,OV,"Bremen, Niedersachsen",Göttingen,Einbeck,OEIN,11.05.1952,Der Ortsbeauftragte für Einbeck,,Tiedexer Tor 6 b,37574,Einbeck,9.862138,51.81965,Niedersachsen, ,Northeim
+1,OV,"Bremen, Niedersachsen",Göttingen,Gieboldehausen,OGIE,21.05.1968,Der Ortsbeauftragte für Gieboldehausen,,Stockenbreite,37434,Gieboldehausen,10.203509,51.600875,Niedersachsen, ,Göttingen
+1,OV,"Bremen, Niedersachsen",Göttingen,Göttingen,OGOT,01.12.1952,Der Ortsbeauftragte für Göttingen,,Industriestraße 12,37079,Göttingen,9.900629,51.54008,Niedersachsen, ,Göttingen
+1,OV,"Bremen, Niedersachsen",Göttingen,Goslar,OGOS,24.09.1952,Der Ortsbeauftragte für Goslar,,Alte Heerstraße 16,38644,Goslar,10.417474,51.935433,Niedersachsen, ,Goslar
+1,OV,"Bremen, Niedersachsen",Göttingen,Hann.-Münden,OHMD,10.05.1953,Der Ortsbeauftragte für Hann.-Münden,,Veckerhäger Straße 106,34346,Hann.-Münden,9.639511,51.424907,Niedersachsen, ,Göttingen
+1,OV,"Bremen, Niedersachsen",Göttingen,Holzminden,OHOL,26.04.1953,Der Ortsbeauftragte für Holzminden,,Burgbergblick 9,37603,Holzminden,9.461233,51.838754,Niedersachsen, ,Holzminden
+1,OV,"Bremen, Niedersachsen",Göttingen,Northeim,ONOH,01.09.1952,Der Ortsbeauftragte für Northeim,,Am Bergbad 4,37154,Northeim,10.003473,51.716972,Niedersachsen, ,Northeim
+1,OV,"Bremen, Niedersachsen",Göttingen,Osterode - NI,OTER,08.05.1958,Der Ortsbeauftragte für Osterode am Harz,,Herzberger Straße 51,37520,Osterode am Harz,10.27151,51.71927,Niedersachsen, ,Osterode am Harz
+1,OV,"Bremen, Niedersachsen",Hannover,Bückeburg,OBKB,01.04.1962,Der Ortsbeauftragte für Bückeburg,,Petzer Straße 19 i,31675,Bückeburg,9.030861,52.264643,Niedersachsen, ,Schaumburg
+1,OV,"Bremen, Niedersachsen",Hannover,Burgdorf,OBUR,08.03.1956,Der Ortsbeauftragte für Burgdorf,,Vor dem Celler Tor 53,31303,Burgdorf,10.013115,52.458903,Niedersachsen, ,Hannover
+1,OV,"Bremen, Niedersachsen",Hannover,Hameln,OHAL,22.05.1952,Der Ortsbeauftragte für Hameln,,Schwarzer Weg 41,31789,Hameln,9.344707,52.08237,Niedersachsen, ,Hameln-Pyrmont
+1,OV,"Bremen, Niedersachsen",Hannover,Hannover/Langenhagen,OHAN,12.06.1952,Der Ortsbeauftragte für Hannover/Langenhagen,,Wiesenauer Straße 14,30179,Hannover,9.718514,52.425849,Niedersachsen, ,Hannover
+1,OV,"Bremen, Niedersachsen",Hannover,Lehrte,OLEH,09.05.1956,Der Ortsbeauftragte für Lehrte,,Ahltener Straße 110,31275,Lehrte,9.957547,52.372702,Niedersachsen, ,Hannover
+1,OV,"Bremen, Niedersachsen",Hannover,Rinteln,ORIN,25.05.1962,Der Ortsbeauftragte für Rinteln,,Heisterbreite 7,31737,Rinteln,9.083954,52.166991,Niedersachsen, ,Schaumburg
+1,OV,"Bremen, Niedersachsen",Hannover,Ronnenberg,ORON,08.11.1972,Der Ortsbeauftragte für Ronnenberg,,In der Beschen 2a,30952,Ronnenberg,9.6536496,52.344672,Niedersachsen, ,Hannover
+1,OV,"Bremen, Niedersachsen",Hannover,Springe,OSPR,10.02.1965,Der Ortsbeauftragte für Springe,,In der Wanne 5,31832,Springe,9.552186,52.218228,Niedersachsen, ,Hannover
+1,OV,"Bremen, Niedersachsen",Hannover,Stadthagen,OSTH,08.06.1962,Der Ortsbeauftragte für Stadthagen,,Am Sonnenbrink 22,31655,Stadthagen,9.190382,52.327641,Niedersachsen, ,Schaumburg
+1,OV,"Bremen, Niedersachsen",Hannover,Wunstorf,OWUN,03.08.1954,Der Ortsbeauftragte für Wunstorf,,Bahnhofstraße 83,31515,Wunstorf,9.4496,52.423323,Niedersachsen, ,Hannover
+1,OV,"Bremen, Niedersachsen",Lingen,Bad Essen,OWLG,08.02.1955,Der Ortsbeauftragte für Bad Essen,,Am Wendebecken 7,49152,Bad Essen,8.347986,52.32412,Niedersachsen, ,Osnabrück
+1,OV,"Bremen, Niedersachsen",Lingen,Cloppenburg,OCLO,11.08.1952,Der Ortsbeauftragte für Cloppenburg,,Hohe Tannen 15,49661,Cloppenburg,8.074038,52.84405,Niedersachsen, ,Cloppenburg
+1,OV,"Bremen, Niedersachsen",Lingen,Lingen,OLIG,01.01.1953,Der Ortsbeauftragte für Lingen,,Feuerdornstraße 3,49808,Lingen (Ems),7.286924,52.512553,Niedersachsen, ,Emsland
+1,OV,"Bremen, Niedersachsen",Lingen,Lohne,OLON,08.12.1961,Der Ortsbeauftragte für Lohne,,Bergweg 39,49393,Lohne,8.257647,52.664616,Niedersachsen, ,Vechta
+1,OV,"Bremen, Niedersachsen",Lingen,Melle,OMLL,13.03.1965,Der Ortsbeauftragte für Melle,,In der Eue 4,49324,Melle,8.318341,52.213127,Niedersachsen, ,Osnabrück
+1,OV,"Bremen, Niedersachsen",Lingen,Meppen,OMEP,15.06.1953,Der Ortsbeauftragte für Meppen,,Lathener Straße 35,49716,Meppen,7.292181,52.70903,Niedersachsen, ,Emsland
+1,OV,"Bremen, Niedersachsen",Lingen,Nordhorn,ONHO,16.06.1953,Der Ortsbeauftragte für Nordhorn,,Boerweg 19,48531,Nordhorn,7.090285,52.450842,Niedersachsen, ,Grafschaft Bentheim
+1,OV,"Bremen, Niedersachsen",Lingen,Osnabrück,OOSN,24.11.1952,Der Ortsbeauftragte für Osnabrück,,Carl-Stolcke-Straße 9,49090,Osnabrück,8.009574,52.305187,Niedersachsen, ,Osnabrück
+1,OV,"Bremen, Niedersachsen",Lingen,Papenburg-Aschend.,OPAP,01.04.1953,Der Ortsbeauftragte für Papenburg-Aschendorf,,Alter Burenweg 7,26871,Papenburg,7.376937,53.0686,Niedersachsen, ,Emsland
+1,OV,"Bremen, Niedersachsen",Lingen,Quakenbrück,OQUA,01.01.1952,Der Ortsbeauftragte für Quakenbrück,,Ostlandstraße 25,49610,Quakenbrück,7.944154,52.669398,Niedersachsen, ,Osnabrück
+1,OV,"Bremen, Niedersachsen",Oldenburg,Aurich,OAUR,02.06.1952,Der Ortsbeauftragte für Aurich,,Schoolpad 82,26605,Aurich,7.505567,53.456454,Niedersachsen, ,Aurich
+1,OV,"Bremen, Niedersachsen",Oldenburg,Emden,OEMD,07.05.1954,Der Ortsbeauftragte für Emden,,Schützenstraße 20,26721,Emden,7.203051,53.380514,Niedersachsen, ,Emden
+1,OV,"Bremen, Niedersachsen",Oldenburg,Jever,OJEV,15.09.1952,Der Ortsbeauftragte für Jever,,Am Bullhamm 11,26441,Jever,7.907935,53.585093,Niedersachsen, ,Friesland
+1,OV,"Bremen, Niedersachsen",Oldenburg,Leer,OLER,01.01.1952,Der Ortsbeauftragte für Leer,,Alemannenstraße 1,26789,Leer,7.505469,53.235462,Niedersachsen, ,Leer
+1,OV,"Bremen, Niedersachsen",Oldenburg,Norden,ONOD,17.03.1953,Der Ortsbeauftragte für Norden,,Osterstrasse 93 B,26506,Norden,7.226395,53.603611,Niedersachsen, ,Aurich
+1,OV,"Bremen, Niedersachsen",Oldenburg,Nordenham,ONOM,16.06.1953,Der Ortsbeauftragte für Nordenham,,Flagbalger Straße 1,26954,Nordenham,8.490578,53.500903,Niedersachsen, ,Wesermarsch
+1,OV,"Bremen, Niedersachsen",Oldenburg,Oldenburg - NI,OODE,01.04.1952,Der Ortsbeauftragte für Oldenburg-NI,,Artillerieweg 59,26129,Oldenburg (Oldb),8.187573,53.15234,Niedersachsen, ,Oldenburg (Oldb)
+1,OV,"Bremen, Niedersachsen",Oldenburg,Varel,OVAR,01.01.1953,Der Ortsbeauftragte für Varel,,Emil-Heeder-Straße 12,26316,Varel,8.096605,53.399587,Niedersachsen, ,Friesland
+1,OV,"Bremen, Niedersachsen",Oldenburg,Westerstede,OWES,01.01.1953,Der Ortsbeauftragte für Westerstede,,Ammerlandallee 32a,26655,Westerstede,7.91798,53.24935,Niedersachsen, ,Ammerland
+1,OV,"Bremen, Niedersachsen",Oldenburg,Wilhelmshaven,OWHV,01.07.1953,Der Ortsbeauftragte für Wilhelmshaven,,Banter Weg 12 A,26389,Wilhelmshaven,8.09046,53.51497,Niedersachsen, ,Wilhelmshaven
+1,OV,"Bremen, Niedersachsen",Verden,Achim,OAHI,11.06.1963,Der Ortsbeauftragte für Achim,,Justus-von-Liebig-Straße 5,28832,Achim,9.066852,53.023918,Niedersachsen, ,Verden
+1,OV,"Bremen, Niedersachsen",Verden,Bassum,OBAS,19.09.1962,Der Ortsbeauftragte für Bassum,,Industriestraße 3,27211,Bassum,8.739046,52.858085,Niedersachsen, ,Diepholz
+1,OV,"Bremen, Niedersachsen",Verden,Celle,OCEL,22.09.1952,Der Ortsbeauftragte für Celle,,Im Werder 3,29221,Celle,10.082201,52.612667,Niedersachsen, ,Celle
+1,OV,"Bremen, Niedersachsen",Verden,Fallingbostel-Walsrode,OFAL,15.02.1953,Der Ortsbeauftragte für Fallingbostel-Walsrode,,Benzen 36,29664,Walsrode,9.552071,52.850383,Niedersachsen, ,Heidekreis
+1,OV,"Bremen, Niedersachsen",Verden,Hoya,OHOY,08.02.1961,Der Ortsbeauftragte für Hoya,,Maschsiedlung 1,27318,Hoya,9.150602,52.807173,Niedersachsen, ,Nienburg (Weser)
+1,OV,"Bremen, Niedersachsen",Verden,Nienburg,ONIE,19.08.1954,Der Ortsbeauftragte für Nienburg,,Ziegelkampstraße 49,31582,Nienburg,9.230419,52.635373,Niedersachsen, ,Nienburg (Weser)
+1,OV,"Bremen, Niedersachsen",Verden,Soltau,OSOL,16.03.1953,Der Ortsbeauftragte für Soltau,,Am Kahlberg 11,29614,Soltau,9.82386,52.97114,Niedersachsen, ,Heidekreis
+1,OV,"Bremen, Niedersachsen",Verden,Sulingen,OSLG,22.07.1952,Der Ortsbeauftragte für Sulingen,,Diepholzer Straße 53,27232,Sulingen,8.788094,52.674802,Niedersachsen, ,Diepholz
+1,OV,"Bremen, Niedersachsen",Verden,Syke,OSYK,03.01.1955,Der Ortsbeauftragte für Syke,,Barrier Straße 46,28857,Syke,8.82407,52.92958,Niedersachsen, ,Diepholz
+1,OV,"Bremen, Niedersachsen",Verden,Verden,OVER,05.05.1953,Der Ortsbeauftragte für Verden,,Clüversweg 4,27283,Verden,9.242136,52.912982,Niedersachsen, ,Verden
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Hamburg,Hamburg Mitte,OHHM,01.08.1952,Der Ortsbeauftragte für Hamburg-Mitte,,Billbrookdeich 139,22113,Hamburg,10.094932,53.53674,Hamburg, ,Hamburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Hamburg,Hamburg Nord,OHHN,15.08.1952,Der Ortsbeauftragte für Hamburg-Nord,,Carl-Cohn-Straße 36-38,22297,Hamburg,10.007855,53.604467,Hamburg, ,Hamburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Hamburg,Hamburg-Altona,OHHA,16.08.1952,Der Ortsbeauftragte für Hamburg-Altona,,Fangdieckstraße 50,22547,Hamburg,9.9016553,53.5970537,Hamburg, ,Hamburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Hamburg,Hamburg-Bergedorf,OHHB,01.08.1952,Der Ortsbeauftragte für Hamburg-Bergedorf,,Sollredder 10,21465,Wentorf bei Hamburg,10.263112,53.484769,Schleswig-Holstein, ,Herzogtum Lauenburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Hamburg,Hamburg-Eimsbüttel,OHHE,15.08.1952,Der Ortsbeauftragte für Hamburg-Eimsbüttel,,Spritzenweg 14,22529,Hamburg,9.956091,53.599982,Hamburg, ,Hamburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Hamburg,Hamburg-Harburg,OHHH,01.08.1952,Der Ortsbeauftragte für Hamburg-Harburg,,Nöldekestraße 10,21079,Hamburg,9.992443,53.452187,Hamburg, ,Hamburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Hamburg,Hamburg-Wandsbek,OHHW,14.08.1952,Der Ortsbeauftragte für Hamburg-Wandsbek,,Rahlau 19,22045,Hamburg,10.113001,53.578788,Hamburg, ,Hamburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Ahrensburg,OAHB,22.08.1969,Der Ortsbeauftragte für Ahrensburg,,Roggenweg 5,22926,Ahrensburg,10.257142,53.6784539,Schleswig-Holstein, ,Stormarn
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Bad Oldesloe,OBOL,01.10.1952,Der Ortsbeauftragte für Bad Oldesloe,,Elly-Heuss-Knapp-Straße 16,23843,Bad Oldesloe,10.411947,53.798517,Schleswig-Holstein, ,Stormarn
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Eutin,OEUT,24.11.1952,Der Ortsbeauftragte für Eutin,,Industriestraße 2,23701,Eutin,10.618934,54.127012,Schleswig-Holstein, ,Ostholstein
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Lauenburg,OLAU,15.06.1953,Der Ortsbeauftragte für Lauenburg,,Reeperbahn 33,21481,Lauenburg,10.550937,53.377506,Schleswig-Holstein, ,Herzogtum Lauenburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Lübeck,OHLB,03.11.1951,Der Ortsbeauftragte für Lübeck,,Vorwerker Straße 141,23554,Lübeck,10.677595,53.900035,Schleswig-Holstein, ,Lübeck
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Mölln,OMLN,07.10.1952,Der Ortsbeauftragte für Mölln,,Hein-Hollenbek-Weg 1,23879,Mölln,10.691366,53.604642,Schleswig-Holstein, ,Herzogtum Lauenburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Neustadt,ONST,02.02.1953,Der Ortsbeauftragte für Neustadt,,Am Holm 74,23730,Neustadt,10.791583,54.095041,Schleswig-Holstein, ,Ostholstein
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Oldenburg,OOLD,16.04.1963,Der Ortsbeauftragte für Oldenburg,,Am Voßberg 10,23758,Oldenburg (SH),10.914916,54.292213,Schleswig-Holstein, ,Ostholstein
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Plön,OPLO,09.01.1953,Der Ortsbeauftragte für Plön,,Behler Weg 19,24306,Plön,10.441067,54.172548,Schleswig-Holstein, ,Plön
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Preetz,OPRZ,20.10.1953,Der Ortsbeauftragte für Preetz,,Handelsweg 6,24211,Preetz,10.301532,54.251489,Schleswig-Holstein, ,Plön
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Lübeck,Ratzeburg,ORZB,01.10.1952,Der Ortsbeauftragte für Ratzeburg,,Pillauer Weg 6-8,23909,Ratzeburg,10.790208,53.686886,Schleswig-Holstein, ,Herzogtum Lauenburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Bad Segeberg,OBSG,09.10.1952,Der Ortsbeauftragte für Bad Segeberg,,Rosenstraße 18 a,23795,Bad Segeberg,10.315323,53.926857,Schleswig-Holstein, ,Segeberg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Barmstedt,OBAR,19.06.1964,Der Ortsbeauftragte für Barmstedt,,An der alten Mühle 8,25355,Barmstedt,9.770722,53.79211,Schleswig-Holstein, ,Pinneberg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Burg-Hochdonn,OBHN,02.07.1964,Der Ortsbeauftragte für Burg-Hochdonn,,Bahnhofstraße 35,25712,Burg,9.257536,54.001527,Schleswig-Holstein, ,Dithmarschen
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Elmshorn,OELM,22.02.1953,Der Ortsbeauftragte für Elmshorn,,Geelbeksdamm 3,25335,Elmshorn,9.677676,53.76633,Schleswig-Holstein, ,Pinneberg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Heide,OHED,05.10.1952,Der Ortsbeauftragte für Heide,,Vogelweide 9,25746,Heide,9.109323,54.185468,Schleswig-Holstein, ,Dithmarschen
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Itzehoe,OITZ,05.11.1952,Der Ortsbeauftragte für Itzehoe,,Oelixdorfer Straße 2,25524,Itzehoe,9.530323,53.924697,Schleswig-Holstein, ,Steinburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Kaltenkirchen,OKAL,16.11.1965,Der Ortsbeauftragte für Kaltenkirchen,,Porschering 7,24568,Kaltenkirchen,9.971612,53.829547,Schleswig-Holstein, ,Segeberg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Meldorf,OMRF,16.04.1962,Der Ortsbeauftragte für Meldorf,,Marschstraße 2,25704,Meldorf,9.065595,54.0838,Schleswig-Holstein, ,Dithmarschen
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Neumünster,OMUE,29.08.1952,Der Ortsbeauftragte für Neumünster,,Niebüller Straße 34-36,24537,Neumünster,9.939899,54.063815,Schleswig-Holstein, ,Neumünster
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Norderstedt,ONER,30.09.1976,Der Ortsbeauftragte für Norderstedt,,Tycho-Brahe-Kehre 6,22844,Norderstedt,10.011774800000012,53.7263514,Schleswig-Holstein, ,Segeberg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Pinneberg,OPIN,30.05.1952,Der Ortsbeauftragte für Pinneberg,,Am Hafen 81,25421,Pinneberg,9.778681,53.665422,Schleswig-Holstein, ,Pinneberg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Neumünster,Wahlstedt,OWAH,22.05.1963,Der Ortsbeauftragte für Wahlstedt,,Dr.-Hermann-Lindrath-Straße 16,23812,Wahlstedt,10.197877,53.948573,Schleswig-Holstein, ,Segeberg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Eckernförde,OECK,07.11.1952,Der Ortsbeauftragte für Eckernförde,,Horn 6,24340,Eckernförde,9.835781,54.448305,Schleswig-Holstein, ,Rendsburg-Eckernförde
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Flensburg,OFLE,29.07.1952,Der Ortsbeauftragte für Flensburg,,Lilienthalstraße 46,24941,Flensburg,9.398486,54.767333,Schleswig-Holstein, ,Schleswig-Flensburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Husum,OHUS,29.01.1954,Der Ortsbeauftragte für Husum,,Johannes-Mejer-Straße 9,25813,Husum,9.082775,54.497287,Schleswig-Holstein, ,Nordfriesland
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Kiel,OKIE,09.07.1952,Der Ortsbeauftragte für Kiel,,Georg-Feydt-Weg 35,24109,Kiel,10.078404,54.316005,Schleswig-Holstein, ,Kiel
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Louisenlund,OLOU,03.09.1974,Stützpunkt Louisenlund,,Stiftung Louisenlund,24357,Güby,9.683483,54.493736,Schleswig-Holstein, ,Rendsburg-Eckernförde
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Niebüll,ONBL,18.11.1952,Der Ortsbeauftragte für Niebüll,,Gather Landstraße 80,25899,Niebüll,8.845012,54.791882,Schleswig-Holstein, ,Nordfriesland
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Rendsburg,OREN,21.11.1952,Der Ortsbeauftragte für Rendsburg,,Graf v. Stauffenberg Straße 12,24768,Rendsburg,9.668278,54.295675,Schleswig-Holstein, ,Rendsburg-Eckernförde
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Schleswig,OSLS,21.12.1952,Der Ortsbeauftragte für Schleswig,,Agnes-Pockels-Straße 7,24837,Schleswig,9.586086,54.541887,Schleswig-Holstein, ,Schleswig-Flensburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Sörup,OSOE,10.10.1970,Der Ortsbeauftragte für Sörup,,Schulstraße 40,24966,Sörup,9.660274,54.71745,Schleswig-Holstein, ,Schleswig-Flensburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schleswig,Tönning,OTOE,17.05.1962,Der Ortsbeauftragte für Tönning,,Dithmarscher Straße,25832,Tönning,8.953667,54.323348,Schleswig-Holstein, ,Nordfriesland
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Bad Doberan,OBDB,14.11.1992,Der Ortsbeauftragte für Bad Doberan,,Straße der Solidarität 5,18230,Kägsdorf / Post Bastorf,11.676166,54.133173,Mecklenburg-Vorpommern, ,Bad Doberan
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Gadebusch,OGAD,07.12.1991,Der Ortsbeauftragte für Gadebusch,,Ratzeburger Chaussee 9,19205,Gadebusch,11.099429,53.697355,Mecklenburg-Vorpommern, ,Nordwestmecklenburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Güstrow,OGUS,09.05.1992,Der Ortsbeauftragte für Güstrow,,Landesbrandmeister-Bever-Str.2,18273,Güstrow,12.1813195630898,53.7931193659559,Mecklenburg-Vorpommern, ,Güstrow
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Ludwigslust,OLUL,07.06.1997,Der Ortsbeauftragte für Ludwigslust,,Am Umspannwerk 1,19288,Ludwigslust,11.492303,53.312239,Mecklenburg-Vorpommern, ,Ludwigslust
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Parchim,OPAC,20.05.1995,Der Ortsbeauftragte für Parchim,,Ziegendorfer Chaussee 89,19370,Parchim,11.817709,53.417945,Mecklenburg-Vorpommern, ,Parchim
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Rostock,ORST,19.10.1991,Der Ortsbeauftragte für Rostock,,Asternweg 5,18069,Rostock,12.078638,54.087312,Mecklenburg-Vorpommern, ,Rostock
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Schwerin,OSWR,16.11.1991,Der Ortsbeauftragte für Schwerin,,Mettenheimer Straße 7,19061,Schwerin,11.419093,53.599669,Mecklenburg-Vorpommern, ,Schwerin
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Schwerin,Wismar,OWIS,02.11.1996,Der Ortsbeauftragte für Wismar,,Zum Siedehaus 20,23970,Wismar,11.482355,53.897254,Mecklenburg-Vorpommern, ,Wismar
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Barth,OBTH,30.04.2005,Der Ortsbeauftragte für Barth,,Hölzern-Kreuz-Weg 13 A,18356,Barth,12.721292,54.357654,Mecklenburg-Vorpommern, ,Nordvorpommern
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Bergen auf Rügen,OBGN,28.11.1992,Der Ortsbeauftragte für Bergen auf Rügen,,Landstraße 8,18528,Bergen auf Rügen,13.428171,54.418876,Mecklenburg-Vorpommern, ,Rügen
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Demmin,ODEM,13.11.1993,Der Ortsbeauftragte für Demmin,,Quitzerower Weg 1,17109,Demmin,13.05342,53.906058,Mecklenburg-Vorpommern, ,Demmin
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Greifswald,OGRE,22.06.1996,Der Ortsbeauftragte für Greifswald,,Loitzer Landstraße 12,17489,Greifswald,13.359603,54.088761,Mecklenburg-Vorpommern, ,Greifswald
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Neubrandenburg,ONBG,27.09.1997,Der Ortsbeauftragte für Neubrandenburg,,Warliner Straße 6,17034,Neubrandenburg,13.293032,53.564011,Mecklenburg-Vorpommern, ,Neubrandenburg
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Neustrelitz,ONTZ,05.11.1994,Der Ortsbeauftragte für Neustrelitz,,Louisenstraße 19,17235,Neustrelitz,13.0677576,53.3659367,Mecklenburg-Vorpommern, ,Mecklenburg-Strelitz
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Pasewalk,OPAK,27.11.1993,Der Ortsbeauftragte für Pasewalk,,Gemeindewiesenweg 4,17309,Pasewalk,14.002403,53.512905,Mecklenburg-Vorpommern, ,Uecker-Randow
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Stralsund,OSRA,30.11.1991,Der Ortsbeauftragte für Stralsund,,Am Alten Marinehafen 1,18439,Stralsund,13.119959,54.306337,Mecklenburg-Vorpommern, ,Stralsund
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Waren,OWAE,23.10.1993,Der Ortsbeauftragte für Waren,,Eichholzstraße 14,17192,Waren (Müritz),12.700302,53.513732,Mecklenburg-Vorpommern, ,Müritz
+1,OV,"Hamburg, Mecklenburg-Vorpommern",Stralsund,Wolgast,OWOG,20.06.1992,Der Ortsbeauftragte für Wolgast,,Am Fuchsberg 9,17438,Wolgast,13.749943,54.049414,Mecklenburg-Vorpommern, ,Ostvorpommern
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Alzey,OALY,15.04.1953,Der Ortsbeauftragte für Alzey,,Albiger Straße 37,55232,Alzey,8.115908,49.756027,Rheinland-Pfalz, ,Alzey-Worms
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Bad Kreuznach,OBKN,01.10.1952,Der Ortsbeauftragte für Bad Kreuznach,,Otto-Meffert-Straße 6,55543,Bad Kreuznach,7.87349824800191,49.8290324654719,Rheinland-Pfalz, ,Bad Kreuznach
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Bingen,OBIN,17.01.1953,Der Ortsbeauftragte für Bingen,,Am Ockenheimer Graben 28,55411,Bingen-Kempten,7.947273,49.961499,Rheinland-Pfalz, ,Mainz-Bingen
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Frankenthal,OFRA,21.10.1961,Der Ortsbeauftragte für Frankenthal,,Mahlastraße 98,67227,Frankenthal (Pfalz),8.353527,49.515748,Rheinland-Pfalz, ,Frankenthal (Pfalz)
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Idar-Oberstein,OIOS,25.09.1956,Der Ortsbeauftragte für Idar-Oberstein,,Am Rilchenberg 2,55743,Idar-Oberstein,7.3111387,49.7082908,Rheinland-Pfalz, ,Birkenfeld
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Ludwigshafen,OLWF,10.06.1952,Der Ortsbeauftragte für Ludwigshafen,,Ignaz-Büttner-Straße 130,67067,Ludwigshafen am Rhein,8.373704,49.449324,Rheinland-Pfalz, ,Ludwigshafen am Rhein
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Mainz,OMAI,14.05.1952,Der Ortsbeauftragte für Mainz,,Carl-Zeiss-Straße 26,55129,Mainz,8.25658,49.96225,Rheinland-Pfalz, ,Mainz
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Simmern,OSMM,07.12.1962,Der Ortsbeauftragte für Simmern,,Argenthaler Straße 10,55469,Simmern,7.556459,49.976069,Rheinland-Pfalz, ,Rhein-Hunsrück-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Wörrstadt,OWOR,11.03.1953,Der Ortsbeauftragte für Wörrstadt,,Ober-Saulheimer-Straße 7,55286,Wörrstadt,8.122526,49.851337,Rheinland-Pfalz, ,Alzey-Worms
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Bad Kreuznach,Worms,OWRS,13.02.1953,Der Ortsbeauftragte für Worms,,Mainzer Straße 64,67547,Worms,8.362372,49.644812,Rheinland-Pfalz, ,Worms
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Bensheim,OBES,06.08.1952,Der Ortsbeauftragte für Bensheim,,Lahnstraße 51,64625,Bensheim,8.612672,49.695862,Hessen,Darmstadt,Bergstraße
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Darmstadt,ODAR,08.07.1952,Der Ortsbeauftragte für Darmstadt,,Eschollbrücker Straße 24,64295,Darmstadt,8.639754,49.861707,Hessen,Darmstadt,Darmstadt
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Groß-Gerau,OGGE,01.10.1954,Der Ortsbeauftragte für Groß-Gerau,,Neuwiesenweg 5,64521,Groß-Gerau,8.465317,49.920777,Hessen,Darmstadt,Groß-Gerau
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Groß-Umstadt,OGUT,04.01.1963,Der Ortsbeauftragte für Groß-Umstadt,,Robert-Bosch-Straße 9,64823,Groß-Umstadt,8.918287,49.873632,Hessen,Darmstadt,Darmstadt-Dieburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Heppenheim,OHEP,21.05.1958,Der Ortsbeauftragte für Heppenheim,,Boschstraße 5,64646,Heppenheim,8.626996,49.646779,Hessen,Darmstadt,Bergstraße
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Lampertheim,OLAM,04.09.1953,Der Ortsbeauftragte für Lampertheim,,Florianstraße 8,68623,Lampertheim,8.480332,49.590501,Hessen,Darmstadt,Bergstraße
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Michelstadt,OMTD,10.02.1955,Der Ortsbeauftragte für Michelstadt,,Contistraße 5,64720,Michelstadt,8.999254,49.681277,Hessen,Darmstadt,Odenwaldkreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Ober-Ramstadt,ORAM,09.12.1971,Der Ortsbeauftragte für Ober-Ramstadt,,Schloßstraße 33,64372,Ober-Ramstadt,8.785824,49.808666,Hessen,Darmstadt,Darmstadt-Dieburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Pfungstadt,OPST,01.07.1962,Der Ortsbeauftragte für Pfungstadt,,Christian-Meid-Straße 27,64319,Pfungstadt,8.605836,49.812509,Hessen,Darmstadt,Darmstadt-Dieburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Rüsselsheim,ORUE,24.06.1956,Der Ortsbeauftragte für Rüsselsheim,,Im Hasslocher Tann 10,65428,Rüsselsheim,8.467269,49.98517,Hessen,Darmstadt,Groß-Gerau
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Darmstadt,Viernheim,OVHM,14.12.1965,Der Ortsbeauftragte für Viernheim,,Alfred-Nobel-Straße 1a,68519,Viernheim,8.590958,49.553784,Hessen,Darmstadt,Bergstraße
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Bad Homburg,OHMB,01.10.1952,Der Ortsbeauftragte für Bad Homburg,,Urseler Straße 48,61348,Bad Homburg v.d. Höhe,8.60535,50.218968,Hessen,Darmstadt,Hochtaunuskreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Frankfurt,OFFT,01.08.1952,Der Ortsbeauftragte für Frankfurt,,Tilsiter Straße 6,60487,Frankfurt am Main,8.626911,50.128556,Hessen,Darmstadt,Frankfurt am Main
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Friedberg/Hessen,OFDB,15.05.1953,Der Ortsbeauftragte für Friedberg,,Raiffeisenstraße 14,61169,Friedberg,8.765093,50.325252,Hessen,Darmstadt,Wetteraukreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Geisenheim,OLOR,03.10.1958,Der Ortsbeauftragte für Geisenheim,,Industriestraße 9,65366,Geisenheim,7.98009,49.99089,Hessen,Darmstadt,Rheingau-Taunus-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Heidenrod,OHRD,01.09.1971,Der Ortsbeauftragte für Heidenrod,,Am Heiligenborn 8,65321,Heidenrod,7.994455,50.208071,Hessen,Darmstadt,Rheingau-Taunus-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Hofheim,OHOH,01.12.1959,Der Ortsbeauftragte für Hofheim,,Nordring 28,65719,Hofheim am Taunus,8.461758,50.095269,Hessen,Darmstadt,Main-Taunus-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Idstein,OIDT,02.09.1958,Der Ortsbeauftragte für Idstein,,Richard-Klinger-Straße  4a,65510,Idstein,8.259931,50.205672,Hessen,Darmstadt,Rheingau-Taunus-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Neu-Isenburg,OIBG,05.05.1953,Der Ortsbeauftragte für Neu-Isenburg,,St. Florian Straße 4,63263,Neu-Isenburg,8.709555,50.049781,Hessen,Darmstadt,Offenbach
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Offenbach,OOFB,04.08.1952,Der Ortsbeauftragte für Offenbach,,Sprendlinger Landstraße 242,63069,Offenbach am Main,8.743646,50.080719,Hessen,Darmstadt,Offenbach am Main
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Seligenstadt,OSST,24.03.1954,Der Ortsbeauftragte für Seligenstadt,,Marie-Curie-Straße 7,63500,Seligenstadt,8.9619786,50.0544779,Hessen,Darmstadt,Offenbach
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Frankfurt,Wiesbaden,OWBN,01.07.1952,Der Ortsbeauftragte für Wiesbaden,,Siegfriedring 1,65189,Wiesbaden,8.259208,50.058457,Hessen,Darmstadt,Wiesbaden
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Alsfeld,OALD,01.07.1959,Der Ortsbeauftragte für Alsfeld,,An der Au Nr. 7,36304,Alsfeld,9.278918,50.753959,Hessen,Gießen,Vogelsbergkreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Bad Orb,OORB,01.02.1962,Der Ortsbeauftragte für Bad Orb,,Gewerbestraße 32,63619,Bad Orb,9.337276,50.234028,Hessen,Darmstadt,Main-Kinzig-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Erlensee,OESE,01.02.1952,Der Ortsbeauftragte für Erlensee,,Reußer Hof-Postfach 1170,63526,Erlensee,8.98389850538597,50.1646127648115,Hessen,Darmstadt,Main-Kinzig-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Fulda,OFUL,01.09.1952,Der Ortsbeauftragte für Fulda,,Ludwig-Beck-Straße 34,36039,Fulda,9.684117,50.567059,Hessen,Kassel,Fulda
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Gelnhausen,OGHN,01.07.1952,Der Ortsbeauftragte für Gelnhausen,,Cassebeerstraße 9,63571,Gelnhausen,9.174731,50.205611,Hessen,Darmstadt,Main-Kinzig-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Hünfeld,OHUE,14.01.1959,Der Ortsbeauftragte für Hünfeld,,Im Honigfeld 1,36088,Hünfeld,9.77303,50.68121,Hessen,Kassel,Fulda
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Lauterbach,OLTB,14.08.1957,Der Ortsbeauftragte für Lauterbach,,Vaitsbergstraße 7,36341,Lauterbach (Hessen),9.412151,50.643695,Hessen,Gießen,Vogelsbergkreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Neuhof,ONHF,28.01.1966,Der Ortsbeauftragte für Neuhof,,Gieseler Straße 36,36119,Neuhof,9.60923,50.460239,Hessen,Kassel,Fulda
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Steinau,OSNA,14.07.1957,Der Ortsbeauftragte für Steinau,,Am Steinaubach 18,36396,Steinau,9.460432,50.317343,Hessen,Darmstadt,Main-Kinzig-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gelnhausen,Wächtersbach,OWBH,01.08.1952,Der Ortsbeauftragte für Wächtersbach,,Industriestraße 29 a,63607,Wächtersbach,9.295545,50.249792,Hessen,Darmstadt,Main-Kinzig-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Bad Wildungen,OBWG,09.08.1952,Der Ortsbeauftragte für Bad Wildungen,,Kurhessenstraße 4,34537,Bad Wildungen,9.14526,51.11882,Hessen,Kassel,Waldeck-Frankenberg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Biedenkopf,OBIE,01.05.1963,Der Ortsbeauftragte für Biedenkopf,,Industriestraße 11,35216,Biedenkopf,8.533948,50.902381,Hessen,Gießen,Marburg-Biedenkopf
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Dillenburg,ODBG,14.01.1953,Der Ortsbeauftragte für Dillenburg,,Alte Rheinstraße,35683,Dillenburg,8.275689,50.735156,Hessen,Gießen,Lahn-Dill-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Frankenberg,OFKB,08.09.1959,Der Ortsbeauftragte für Frankenberg,,Auestraße 25,35066,Frankenberg,8.782855,51.05472,Hessen,Kassel,Waldeck-Frankenberg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Gießen,OGIS,16.09.1952,Der Ortsbeauftragte für Gießen,,Erdkauter Weg 20,35392,Gießen,8.682625,50.571493,Hessen,Gießen,Gießen
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Grünberg,OGBG,10.08.1961,Der Ortsbeauftragte für Grünberg,,Eiserne Hand 37,35305,Grünberg,8.957044,50.607659,Hessen,Gießen,Gießen
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Korbach,OKOR,02.06.1953,Der Ortsbeauftragte für Korbach,,Briloner Landstraße 60,34497,Korbach,8.851556,51.282635,Hessen,Kassel,Waldeck-Frankenberg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Limburg,OLIM,03.10.1952,Der Ortsbeauftragte für Limburg,,Senefelderstraße 5,65553,Limburg a.d. Lahn,8.0786845,50.4028868,Hessen,Gießen,Limburg-Weilburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Marburg,OMBU,24.11.1952,Der Ortsbeauftragte für Marburg,,Molkereistraße 7,35039,Marburg,8.762453,50.791812,Hessen,Gießen,Marburg-Biedenkopf
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Weilburg,OWLB,18.02.1960,Der Ortsbeauftragte für Weilburg,,An der Backstania 2,35781,Weilburg,8.256008,50.490863,Hessen,Gießen,Limburg-Weilburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Gießen,Wetzlar,OSWZ,03.03.1953,Der Ortsbeauftragte für Wetzlar,,Sportparkstraße 17,35578,Wetzlar,8.530802,50.553805,Hessen,Gießen,Lahn-Dill-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Bad Hersfeld,OBFD,02.01.1957,Der Ortsbeauftragte für Bad Hersfeld,,Friedewalder Straße 34 a,36251,Bad Hersfeld,9.732961,50.865743,Hessen,Kassel,Hersfeld-Rotenburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Eschwege,OESC,28.05.1954,Der Ortsbeauftragte für Eschwege,,Bebraer Straße 2,37269,Eschwege,10.026288,51.177836,Hessen,Kassel,Werra-Meißner-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Fritzlar,OFTZ,12.04.1952,Der Ortsbeauftragte für Fritzlar,,Waberner Straße 33,34560,Fritzlar,9.28752,51.12672,Hessen,Kassel,Schwalm-Eder-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Großalmerode,OGRO,06.10.1964,Der Ortsbeauftragte für Großalmerode,,Rommeroder Straße 2,37247,Großalmerode,9.776897,51.244962,Hessen,Kassel,Werra-Meißner-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Hofgeismar,OHGS,10.10.1960,Der Ortsbeauftragte für Hofgeismar,,Kasinoweg 16a,34369,Hofgeismar,9.390808,51.492457,Hessen,Kassel,Kassel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Homberg,OHOM,03.04.1953,Der Ortsbeauftragte für Homberg,,Schlesierweg 8-10,34576,Homberg,9.394177,51.03277,Hessen,Kassel,Schwalm-Eder-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Kassel,OKSL,23.08.1952,Der Ortsbeauftragte für Kassel,,Knorrstraße 43,34121,Kassel,9.478946,51.292824,Hessen,Kassel,Kassel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Melsungen,OMSU,15.10.1952,Der Ortsbeauftragte für Melsungen,,Amtsgasse 1,34212,Melsungen,9.540232,51.13489,Hessen,Kassel,Schwalm-Eder-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Rotenburg - HE,ORBU,10.09.1952,Der Ortsbeauftragte für Rotenburg-HE,,Im Heienbach 21,36199,Rotenburg a.d. Fulda,9.739955,50.999578,Hessen,Kassel,Hersfeld-Rotenburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Schwalmstadt,OSLM,12.01.1961,Der Ortsbeauftragte für Schwalmstadt,,Ulrichsweg 27,34613,Schwalmstadt,9.177222,50.906768,Hessen,Kassel,Schwalm-Eder-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Witzenhausen,ONEI,24.03.1972,Der Ortsbeauftragte für Witzenhausen,,Vor dem Mühlenbach 2,37214,Witzenhausen,10.106588,51.570422,Hessen,Kassel,Werra-Meißner-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Homberg,Wolfhagen,OWHG,10.10.1960,Der Ortsbeauftragte für Wolfhagen,,Raiffeisenweg 4,34466,Wolfhagen,9.182953,51.331841,Hessen,Kassel,Kassel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Ahrweiler,OAHR,03.01.1953,Der Ortsbeauftragte für Ahrweiler,,Sebastianstraße 122,53474,Bad Neuenahr,7.11832,50.54552,Rheinland-Pfalz, ,Ahrweiler
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Andernach,OAND,14.09.1968,Der Ortsbeauftragte für Andernach,,Werftstraße 15,56626,Andernach,7.4143041,50.4398656,Rheinland-Pfalz, ,Mayen-Koblenz
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Bendorf,OBEN,23.09.1968,Der Ortsbeauftragte für Bendorf,,Brauereistr. 48,56170,Bendorf,7.5649,50.42635,Rheinland-Pfalz, ,Mayen-Koblenz
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Betzdorf,OBET,10.08.1957,Der Ortsbeauftragte für Betzdorf,,Industriestraße 23,57584,Scheuerfeld,7.835536,50.787783,Rheinland-Pfalz, ,Altenkirchen (Westerwald)
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Koblenz,OKOB,02.07.1952,Der Ortsbeauftragte für Koblenz,,Von-Kuhl-Straße 15,56070,Koblenz,7.580219,50.376961,Rheinland-Pfalz, ,Koblenz
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Lahnstein,OLAH,17.04.1953,Der Ortsbeauftragte für Lahnstein,,Ahlerhof 13,56112,Lahnstein,7.64753,50.309374,Rheinland-Pfalz, ,Rhein-Lahn-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Mayen,OMAY,01.05.1959,Der Ortsbeauftragte für Mayen,,Nikolaus-Otto-Straße,56727,Mayen,7.263275,50.333829,Rheinland-Pfalz, ,Mayen-Koblenz
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Montabaur,OMTB,08.09.1959,Der Ortsbeauftragte für Montabaur,,Horresser Berg 20,56410,Montabaur,7.807514,50.436003,Rheinland-Pfalz, ,Westerwaldkreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Neuwied,ONWD,25.09.1955,Der Ortsbeauftragte für Neuwied,,Talweg 98,56567,Neuwied,7.453595,50.449139,Rheinland-Pfalz, ,Neuwied
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Sinzig,OSIN,25.07.1971,Der Ortsbeauftragte für Sinzig,,Mosaikweg 6,53489,Sinzig,7.265186,50.546056,Rheinland-Pfalz, ,Ahrweiler
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Koblenz,Westerburg,OWEB,01.06.1965,Der Ortsbeauftragte für Westerburg,,Langenhahnerstraße 42,56457,Westerburg,7.953954,50.568292,Rheinland-Pfalz, ,Westerwaldkreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Beckingen,OBEK,14.11.1971,Der Ortsbeauftragte für Beckingen,,Waldstraße ,66701,Beckingen,6.708107,49.394477,Saarland, ,Merzig-Wadern
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Dillingen (Saar),ODLG,,Der Ortsbeauftragte für Dillingen (Saar),,Neustraße 43 a,66763,Dillingen/ Saar,6.714542,49.357492,Saarland, ,Saarlouis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Freisen,OFEI,09.07.1965,Der Ortsbeauftragte für Freisen,,Birgelstraße,66629,Freisen,7.255975,49.55313,Saarland, ,Sankt Wendel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Lebach,OLEB,22.11.1961,Der Ortsbeauftragte für Lebach,,Straße der Weißen Rose 4,66822,Lebach,6.897579,49.402946,Saarland, ,Saarlouis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Mettlach,OMET,15.11.1962,Der Ortsbeauftragte für Mettlach,,Am Jungenwald 50,66693,Mettlach,6.603353,49.49062,Saarland, ,Merzig-Wadern
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Nohfelden,ONOF,16.04.1967,Der Ortsbeauftragte für Nohfelden,,Von-Boch-Straße,66625,Nohfelden,7.11526,49.584074,Saarland, ,Sankt Wendel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Perl-Obermosel,OPOM,,Der Ortsbeauftragte für Perl-Obermosel,,Normannenstraße 6,66706,Perl,6.37252,49.517714,Saarland, ,Merzig-Wadern
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Saarlouis,OSAA,04.09.1958,Der Ortsbeauftragte für Saarlouis,,Winterstraße 118,66740,Saarlouis,6.759842,49.339594,Saarland, ,Saarlouis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Saarwellingen,OSAW,18.10.1958,Der Ortsbeauftragte für Saarwellingen,,Lachwald,66793,Saarwellingen,6.805946,49.335847,Saarland, ,Saarlouis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,St. Wendel,OWED,18.03.1959,Der Ortsbeauftragte für St. Wendel,,Essener Straße 9,66606,St. Wendel,7.1403,49.464151,Saarland, ,Sankt Wendel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Theley,OTHE,24.03.1962,Der Ortsbeauftragte für Theley,,Oberst Reitzwies 12,66636,Tholey,7.027461,49.494392,Saarland, ,Sankt Wendel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Merzig,Wadern,OWAD,01.03.1960,Der Ortsbeauftragte für Wadern,,Am Lottenbruch,66687,Wadern,6.87922,49.538191,Saarland, ,Merzig-Wadern
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Bad Bergzabern,OZAB,01.10.1962,Der Ortsbeauftragte für Bad Bergzabern,,Steinfelderstraße 42,76887,Bad Bergzabern,8.004006,49.095416,Rheinland-Pfalz, ,Südliche Weinstraße
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Germersheim,OGHE,12.09.1961,Der Ortsbeauftragte für Germersheim,,Heilbronnerstraße 2,76726,Germersheim,8.382161,49.22871,Rheinland-Pfalz, ,Germersheim
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Hauenstein,OHEN,18.03.1964,Der Ortsbeauftragte für Hauenstein,,Pirminiusstraße 12,76846,Hauenstein,7.845363,49.19252,Rheinland-Pfalz, ,Südwestpfalz
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Kaiserslautern,OKAI,01.09.1952,Der Ortsbeauftragte für Kaiserslautern,,Ludwigshafener Straße 100,67657,Kaiserslautern,7.820495,49.458048,Rheinland-Pfalz, ,Kaiserslautern
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Landau,OLDA,01.01.1955,Der Ortsbeauftragte für Landau,,Landkommissärstraße 1,76829,Landau,8.164323,49.201873,Rheinland-Pfalz, ,Südliche Weinstraße
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Neustadt a.d.W.,OADW,17.06.1953,Der Ortsbeauftragte für Neustadt a.d.W.,,Flugplatzstraße 90,67435,Neustadt a. d. Weinstraße,8.218847,49.323993,Rheinland-Pfalz, ,Neustadt a. d. Weinstraße
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Pirmasens,OPSE,01.12.1953,Der Ortsbeauftragte für Pirmasens,,Postfach 2837,66934,Pirmasens,7.59778,49.203006,Rheinland-Pfalz, ,Pirmasens
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Speyer,OSPY,04.12.1954,Der Ortsbeauftragte für Speyer,,Industriestraße 9,67346,Speyer,8.445673,49.307778,Rheinland-Pfalz, ,Speyer
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Neustadt a.d.W.,Zweibrücken,OZWE,01.10.1953,Der Ortsbeauftragte für Zweibrücken,,Amerikastraße 51,66482,Zweibrücken,7.361475,49.262689,Rheinland-Pfalz, ,Zweibrücken
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Blieskastel,OBLI,09.11.1962,Der Ortsbeauftragte für Blieskastel,,Saar-Pfalz-Straße 57 a,66440,Blieskastel,7.189086,49.217564,Saarland, ,Saarpfalz-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Friedrichsthal,OFTH,09.01.1959,Der Ortsbeauftragte für Friedrichsthal,,Ostschachtstraße 23,66299,Friedrichsthal,7.083668,49.320787,Saarland, ,Stadtverband Saarbrücken
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Heusweiler,OHEU,,Der Ortsbeauftragte für Heusweiler,,Eisenbahnstraße 9,66265,Heusweiler,6.933221,49.338421,Saarland, ,Stadtverband Saarbrücken
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Homburg,OHBU,15.01.1959,Der Ortsbeauftragte für Homburg,,In den Rohrwiesen 12,66424,Homburg,7.34417,49.33636,Saarland, ,Saarpfalz-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Illingen,OILL,,Der Ortsbeauftragte für IIlingen,,An der Schmelz 2,66557,Illingen,7.05613,49.37423,Saarland, ,Neunkirchen
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Neunkirchen (Saar),ONKI,16.10.1958,Der Ortsbeauftragte für Neunkirchen,,Betzenhölle 27,66538,Neunkirchen,7.163503,49.334221,Saarland, ,Neunkirchen
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Riegelsberg,ORGB,13.12.1958,Der Ortsbeauftragte für Riegelsberg,,Wolfskaulstraße 58 B,66292,Riegelsberg,6.937922,49.297686,Saarland, ,Stadtverband Saarbrücken
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Saarbrücken,OSBR,07.10.1958,Der Ortsbeauftragte für Saarbrücken,,Im Weyerbachtal 22a,66115,Saarbrücken,6.941763,49.253179,Saarland, ,Stadtverband Saarbrücken
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Spiesen-Elversberg,OSPI,16.11.1971,Der Ortsbeauftragte für Spiesen-Elversberg,,Am Wildbertsstock,66583,Spiesen-Elversberg,7.144353,49.307584,Saarland, ,Neunkirchen
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,St. Ingbert,OINB,06.05.1958,Der Ortsbeauftragte für St. Ingbert,,Oststraße 10,66386,St. Ingbert,7.13061,49.281421,Saarland, ,Saarpfalz-Kreis
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Sulzbach,OSUZ,13.01.1959,Der Ortsbeauftragte für Sulzbach,,Wiesenstraße 50,66280,Sulzbach,7.074721,49.310462,Saarland, ,Stadtverband Saarbrücken
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Saarbrücken,Völklingen-Püttlingen,OVOE,24.07.1958,Der Ortsbeauftragte für Völklingen-Püttlingen,,Zum Wasserwerk,66333,Völklingen,6.858497,49.259679,Saarland, ,Stadtverband Saarbrücken
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Bitburg,OBIT,01.07.1956,Der Ortsbeauftragte für Bitburg,,Wittlicher Straße 36,54634,Bitburg,6.533124,49.979635,Rheinland-Pfalz, ,Eifelkreis Bitburg-Prüm
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Cochem,OCOC,01.04.1963,Der Ortsbeauftragte für Cochem,,August-Horch-Straße 6,56812,Cochem,7.145314,50.130358,Rheinland-Pfalz, ,Cochem-Zell
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Daun-Vulkaneifel,ODOC,01.09.1989,Der Ortsbeauftragte für Daun-Vulkaneifel,,Mehrener Straße 38,54550,Daun,6.841193,50.195113,Rheinland-Pfalz, ,Vulkaneifel
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Hermeskeil,OHER,01.06.1971,Der Ortsbeauftragte für Hermeskeil,,Raiffeisenstraße 11,54411,Hermeskeil,6.949887,49.663538,Rheinland-Pfalz, ,Trier-Saarburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Prüm,OPRU,01.04.1965,Der Ortsbeauftragte für Prüm,,Jakob-Fugger-Straße,54595,Prüm,6.443677,50.215736,Rheinland-Pfalz, ,Eifelkreis Bitburg-Prüm
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Saarburg,OSAB,01.05.1954,Der Ortsbeauftragte für Saarburg,,Irscher Straße 36,54439,Saarburg,6.566689,49.6059,Rheinland-Pfalz, ,Trier-Saarburg
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Trier,OTRI,15.10.1952,Der Ortsbeauftragte für Trier,,Peter-Schröder-Straße 16,54294,Trier,6.616267,49.751497,Rheinland-Pfalz, ,Trier
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Wittlich,OWII,01.05.1962,Der Ortsbeauftragte für Wittlich,,Röntgenstraße 5,54516,Wittlich,6.9032972,49.9789142,Rheinland-Pfalz, ,Bernkastel-Wittlich
+1,OV,"Hessen, Rheinland-Pfalz, Saarland",Trier,Zell,OZEL,01.07.1967,Der Ortsbeauftragte für Zell,,Am Meerpool,56856,Zell,7.159754,50.032097,Rheinland-Pfalz, ,Cochem-Zell
+1,OV,Nordrhein-Westfalen,Aachen,Aachen,OAAC,16.09.1962,Der Ortsbeauftragte für Aachen,,Eckenerstraße 52,52078,Aachen,6.158488,50.756488,Nordrhein-Westfalen,Köln,Aachen
+1,OV,Nordrhein-Westfalen,Aachen,Alsdorf,OALS,15.09.1977,Der Ortsbeauftragte für Alsdorf,,Alte Wardener Straße 147,52477,Alsdorf,6.205881,50.859873,Nordrhein-Westfalen,Köln,Aachen
+1,OV,Nordrhein-Westfalen,Aachen,Düren,ODNR,10.12.1952,Der Ortsbeauftragte für Düren,,Am Ellernbusch 27,52355,Düren,6.468286,50.795045,Nordrhein-Westfalen,Köln,Düren
+1,OV,Nordrhein-Westfalen,Aachen,Eschweiler,OESW,09.09.1953,Der Ortsbeauftragte für Eschweiler,,Florianweg 3,52249,Eschweiler,6.256192,50.810641,Nordrhein-Westfalen,Köln,Aachen
+1,OV,Nordrhein-Westfalen,Aachen,Euskirchen,OEUK,26.08.1953,Der Ortsbeauftragte für Euskirchen,,Otto-Lilienthal-Straße 21,53879,Euskirchen,6.7887652,50.6533185,Nordrhein-Westfalen,Köln,Euskirchen
+1,OV,Nordrhein-Westfalen,Aachen,Herzogenrath,OHRT,25.04.1975,Der Ortsbeauftragte für Herzogenrath,,Am Wasserturm 14,52134,Herzogenrath,6.1225005,50.8857877,Nordrhein-Westfalen,Köln,Aachen
+1,OV,Nordrhein-Westfalen,Aachen,Hürtgenwald,OHUR,01.01.1974,Der Ortsbeauftragte für Hürtgenwald,,Auf dem Stückchen,52393,Hürtgenwald,6.429345,50.695503,Nordrhein-Westfalen,Köln,Düren
+1,OV,Nordrhein-Westfalen,Aachen,Jülich,OJUE,15.09.1953,Der Ortsbeauftragte für Jülich,,Rathausstraße 18,52428,Jülich,6.324713,50.924463,Nordrhein-Westfalen,Köln,Düren
+1,OV,Nordrhein-Westfalen,Aachen,Nörvenich,ONOV,15.06.1978,Der Ortsbeauftragte für Nörvenich,,Dresdener Straße 2,52388,Nörvenich,6.637491,50.808708,Nordrhein-Westfalen,Köln,Düren
+1,OV,Nordrhein-Westfalen,Aachen,Schleiden,OSLE,01.01.1965,Der Ortsbeauftragte für Schleiden,,Weierstraße 8,53937,Schleiden,6.466881,50.512215,Nordrhein-Westfalen,Köln,Euskirchen
+1,OV,Nordrhein-Westfalen,Aachen,Simmerath,OSIR,12.09.1961,Der Ortsbeauftragte für Simmerath,,Hoscheiterstraße 2,52152,Simmerath,6.272042,50.632087,Nordrhein-Westfalen,Köln,Aachen
+1,OV,Nordrhein-Westfalen,Aachen,Stolberg,OSTB,19.05.1952,Der Ortsbeauftragte für Stolberg,,Oststraße 63,52222,Stolberg (Rhld.),6.229323,50.780337,Nordrhein-Westfalen,Köln,Aachen
+1,OV,Nordrhein-Westfalen,Arnsberg,Arnsberg,OARN,27.08.1952,Der Ortsbeauftragte für Arnsberg,,Niedereimerfeld 19b,59823,Arnsberg,8.038909,51.421216,Nordrhein-Westfalen,Arnsberg,Hochsauerlandkreis
+1,OV,Nordrhein-Westfalen,Arnsberg,Brilon,OBRI,28.08.1971,Der Ortsbeauftragte für Brilon,,Freiladestraße 13,59929,Brilon,8.575854,51.397466,Nordrhein-Westfalen,Arnsberg,Hochsauerlandkreis
+1,OV,Nordrhein-Westfalen,Arnsberg,Büren,OBNU,01.01.1956,Der Ortsbeauftragte für Büren,,Buschenbach 16,33142,Büren,8.568031,51.497761,Nordrhein-Westfalen,Detmold,Paderborn
+1,OV,Nordrhein-Westfalen,Arnsberg,Hallenberg-Hesborn,OHAH,16.08.1968,Der Ortsbeauftragte für Hallenberg-Hesborn,,Kirchweg 8,59969,Hallenberg,8.625285,51.150352,Nordrhein-Westfalen,Arnsberg,Hochsauerlandkreis
+1,OV,Nordrhein-Westfalen,Arnsberg,Höxter,OHXT,01.10.1952,Der Ortsbeauftragte für Höxter,,Corveyer Allee 29,37671,Höxter,9.395964,51.77789,Nordrhein-Westfalen,Detmold,Höxter
+1,OV,Nordrhein-Westfalen,Arnsberg,Lippstadt,OLIP,02.12.1953,Der Ortsbeauftragte für Lippstadt,,Westernkötterstraße 185,59557,Lippstadt,8.356584,51.655949,Nordrhein-Westfalen,Arnsberg,Soest
+1,OV,Nordrhein-Westfalen,Arnsberg,Meschede,OMES,01.01.1963,Der Ortsbeauftragte für Meschede,,Le-Puy-Straße 25a,59872,Meschede,8.276617,51.349395,Nordrhein-Westfalen,Arnsberg,Hochsauerlandkreis
+1,OV,Nordrhein-Westfalen,Arnsberg,Paderborn,OPAD,03.09.1952,Der Ortsbeauftragte für Paderborn,,Senefelder Straße 12a,33100,Paderborn,8.790104,51.733492,Nordrhein-Westfalen,Detmold,Paderborn
+1,OV,Nordrhein-Westfalen,Arnsberg,Soest,OSOS,06.10.1953,Der Ortsbeauftragte für Soest,,Postfach 22 30,59482,Soest,8.099597,51.57587,Nordrhein-Westfalen,Arnsberg,Soest
+1,OV,Nordrhein-Westfalen,Arnsberg,Warburg,OWAB,14.01.1957,Der Ortsbeauftragte für Warburg,,Johannistorstraße 45,34414,Warburg,9.1444,51.481146,Nordrhein-Westfalen,Detmold,Höxter
+1,OV,Nordrhein-Westfalen,Bielefeld,Bielefeld,OBLE,15.08.1952,Der Ortsbeauftragte für Bielefeld,,Friedrich-Hagemann-Straße 32,33719,Bielefeld,8.583076,52.01628,Nordrhein-Westfalen,Detmold,Bielefeld
+1,OV,Nordrhein-Westfalen,Bielefeld,Bünde,OBUD,19.08.1972,Der Ortsbeauftragte für Bünde,,Daimlerstraße 20,32257,Bünde,8.534236,52.199509,Nordrhein-Westfalen,Detmold,Herford
+1,OV,Nordrhein-Westfalen,Bielefeld,Detmold,ODED,02.09.1952,Der Ortsbeauftragte für Detmold,,Windmeierweg 8,32758,Detmold,8.84058,51.9611,Nordrhein-Westfalen,Detmold,Lippe
+1,OV,Nordrhein-Westfalen,Bielefeld,Gütersloh,OGLH,01.01.1953,Der Ortsbeauftragte für Gütersloh,,Am Coesfeld 11 a,33334,Gütersloh,8.420865,51.885526,Nordrhein-Westfalen,Detmold,Gütersloh
+1,OV,Nordrhein-Westfalen,Bielefeld,Halle,OHAE,10.05.1972,Der Ortsbeauftragte für Halle,,Pappelstraße 13,33790,Halle,8.361519,52.027145,Nordrhein-Westfalen,Detmold,Gütersloh
+1,OV,Nordrhein-Westfalen,Bielefeld,Herford,OHFD,01.09.1952,Der Ortsbeauftragte für Herford,,Ackerstraße 19,32051,Herford,8.65252,52.127709,Nordrhein-Westfalen,Detmold,Herford
+1,OV,Nordrhein-Westfalen,Bielefeld,Lemgo,OLEM,24.10.1952,Der Ortsbeauftragte für Lemgo,,Steinweg 16,32657,Lemgo,8.890739,52.02711,Nordrhein-Westfalen,Detmold,Lippe
+1,OV,Nordrhein-Westfalen,Bielefeld,Lübbecke,OLCK,01.01.1964,Der Ortsbeauftragte für Lübbecke,,Am Zollamt 7,32312,Lübbecke,8.634539,52.309597,Nordrhein-Westfalen,Detmold,Minden-Lübbecke
+1,OV,Nordrhein-Westfalen,Bielefeld,Minden,OMDN,01.08.1952,Der Ortsbeauftragte für Minden,,Artilleriestraße 15,32427,Minden,8.905161,52.29709,Nordrhein-Westfalen,Detmold,Minden-Lübbecke
+1,OV,Nordrhein-Westfalen,Bielefeld,Vlotho,OVLO,01.06.1953,Der Ortsbeauftragte für Vlotho,,Bleichstraße 62,32545,Bad Oeynhausen,8.811024,52.180336,Nordrhein-Westfalen,Detmold,Minden-Lübbecke
+1,OV,Nordrhein-Westfalen,Bochum,Bochum,OBOM,21.04.1952,Der Ortsbeauftragte für Bochum,,Harpener Feld 1-3,44805,Bochum,7.258699,51.498234,Nordrhein-Westfalen,Arnsberg,Bochum
+1,OV,Nordrhein-Westfalen,Bochum,Hagen,OHAG,01.08.1952,Der Ortsbeauftragte für Hagen,,Lütkenheider Straße 2,58099,Hagen,7.460957,51.390599,Nordrhein-Westfalen,Arnsberg,Hagen
+1,OV,Nordrhein-Westfalen,Bochum,Hattingen,OHAI,04.09.1953,Der Ortsbeauftragte für Hattingen,,Schmiedestr. 13,45527,Hattingen,7.19099,51.41518,Nordrhein-Westfalen,Arnsberg,Ennepe-Ruhr-Kreis
+1,OV,Nordrhein-Westfalen,Bochum,Herne,OHEE,02.03.1952,Der Ortsbeauftragte für Herne,,Castroper Straße 56,44628,Herne,7.247762,51.549691,Nordrhein-Westfalen,Arnsberg,Herne
+1,OV,Nordrhein-Westfalen,Bochum,Remscheid,OREM,01.01.1953,Der Ortsbeauftragte für Remscheid,,Auf dem Knapp  21,42855,Remscheid,7.230227,51.182841,Nordrhein-Westfalen,Düsseldorf,Remscheid
+1,OV,Nordrhein-Westfalen,Bochum,Schwelm,OSEM,01.01.1955,Der Ortsbeauftragte für Schwelm,,Am Ochsenkamp 75,58332,Schwelm,7.279747,51.287697,Nordrhein-Westfalen,Arnsberg,Ennepe-Ruhr-Kreis
+1,OV,Nordrhein-Westfalen,Bochum,Wanne-Eickel,OWAC,01.09.1952,Der Ortsbeauftragte für Wanne-Eickel,,Plutostraße 15,44651,Herne,7.152844,51.521494,Nordrhein-Westfalen,Arnsberg,Herne
+1,OV,Nordrhein-Westfalen,Bochum,Wetter,OWET,01.04.1957,Der Ortsbeauftragte für Wetter,,Voßhöfener Straße 311,58300,Wetter,7.367909,51.390527,Nordrhein-Westfalen,Arnsberg,Ennepe-Ruhr-Kreis
+1,OV,Nordrhein-Westfalen,Bochum,Witten,OWTN,01.10.1953,Der Ortsbeauftragte für Witten,,Liegnitzer Straße 4,58454,Witten,7.350586,51.456234,Nordrhein-Westfalen,Arnsberg,Ennepe-Ruhr-Kreis
+1,OV,Nordrhein-Westfalen,Bochum,Wuppertal,OWUP,30.04.1952,Der Ortsbeauftragte für Wuppertal,,Otto-Hahn-Straße 22,42369,Wuppertal,7.215305,51.233377,Nordrhein-Westfalen,Düsseldorf,Wuppertal
+1,OV,Nordrhein-Westfalen,Dortmund,Altena,OALN,13.03.1958,Der Ortsbeauftragte für Altena,,Brachtenbecker Weg 132,58762,Altena,7.648235,51.294106,Nordrhein-Westfalen,Arnsberg,Märkischer Kreis
+1,OV,Nordrhein-Westfalen,Dortmund,Balve,OBAV,09.10.1963,Der Ortsbeauftragte für Balve,,Glärbach 15,58802,Balve,7.868429,51.342371,Nordrhein-Westfalen,Arnsberg,Märkischer Kreis
+1,OV,Nordrhein-Westfalen,Dortmund,Dortmund,ODOR,04.06.1952,Der Ortsbeauftragte für Dortmund,,Niedersachsenweg 14,44143,Dortmund,7.525417,51.528822,Nordrhein-Westfalen,Arnsberg,Dortmund
+1,OV,Nordrhein-Westfalen,Dortmund,Halver,OHAV,24.06.1964,Der Ortsbeauftragte für Halver,,Löhbacher Straße 3,58553,Halver,7.491215,51.193283,Nordrhein-Westfalen,Arnsberg,Märkischer Kreis
+1,OV,Nordrhein-Westfalen,Dortmund,Hamm,OHAM,01.08.1952,Der Ortsbeauftragte für Hamm,,Östingstraße 47,59063,Hamm,7.806462,51.65891,Nordrhein-Westfalen,Arnsberg,Hamm
+1,OV,Nordrhein-Westfalen,Dortmund,Iserlohn,OISR,01.07.1972,Der Ortsbeauftragte für Iserlohn,,Kalthofer Feld 7,58640,Iserlohn,7.673261,51.424912,Nordrhein-Westfalen,Arnsberg,Märkischer Kreis
+1,OV,Nordrhein-Westfalen,Dortmund,Kamen-Bergkamen,OBKA,02.09.1953,Der Ortsbeauftragte für Kamen-Bergkamen,,Werner Straße 6,59192,Bergkamen,7.662218,51.605712,Nordrhein-Westfalen,Arnsberg,Unna
+1,OV,Nordrhein-Westfalen,Dortmund,Lüdenscheid,OLUS,25.09.1952,Der Ortsbeauftragte für Lüdenscheid,,Wefelshohler Straße 40,58511,Lüdenscheid,7.652586,51.211818,Nordrhein-Westfalen,Arnsberg,Märkischer Kreis
+1,OV,Nordrhein-Westfalen,Dortmund,Lünen,OLUN,02.03.1953,Der Ortsbeauftragte für Lünen,,Frydagstraße 22,44536,Lünen,7.473312,51.613114,Nordrhein-Westfalen,Arnsberg,Unna
+1,OV,Nordrhein-Westfalen,Dortmund,Unna-Schwerte,OUNA,01.02.1953,Der Ortsbeauftragte für Unna,,Florianstraße 15,59423,Unna,7.662196,51.524155,Nordrhein-Westfalen,Arnsberg,Unna
+1,OV,Nordrhein-Westfalen,Dortmund,Werne,OWEE,03.01.1967,Der Ortsbeauftragte für Werne,,Südring 3a,59368,Werne,7.63352,51.65418,Nordrhein-Westfalen,Arnsberg,Unna
+1,OV,Nordrhein-Westfalen,Düsseldorf,Düsseldorf,ODUE,01.04.1952,Der Ortsbeauftragte für Düsseldorf,,Oberhausener Straße 14,40472,Düsseldorf,6.820534,51.271588,Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+1,OV,Nordrhein-Westfalen,Düsseldorf,Duisburg,ODUI,01.01.1952,Der Ortsbeauftragte für Duisburg,,Sternstraße 103,47249,Duisburg,6.775473,51.389605,Nordrhein-Westfalen,Düsseldorf,Duisburg
+1,OV,Nordrhein-Westfalen,Düsseldorf,Haan,OHAA,15.07.1968,Der Ortsbeauftragte für Haan,,Leichtmetallstraße 6,42781,Haan,7.004872,51.218154,Nordrhein-Westfalen,Düsseldorf,Mettmann
+1,OV,Nordrhein-Westfalen,Düsseldorf,Heiligenhaus/Wülfrath,OHGH,30.04.1971,Der Ortsbeauftragte für Heilgenhaus/Wülfrath,,Untere Industriestraße 26,42579,Heiligenhaus,6.979219,51.330632,Nordrhein-Westfalen,Düsseldorf,Mettmann
+1,OV,Nordrhein-Westfalen,Düsseldorf,Hilden,OHID,01.08.1990,Der Ortsbeauftragte für Hilden,,Auf dem Sand 20 a,40721,Hilden,6.92315,51.1761,Nordrhein-Westfalen,Düsseldorf,Mettmann
+1,OV,Nordrhein-Westfalen,Düsseldorf,Mülheim,OMHM,05.07.1952,Der Ortsbeauftragte für Mülheim,,Düsseldorfer Straße 223,45481,Mülheim an der Ruhr,6.868316,51.412559,Nordrhein-Westfalen,Düsseldorf,Mülheim an der Ruhr
+1,OV,Nordrhein-Westfalen,Düsseldorf,Ratingen,ORGN,08.07.1971,Der Ortsbeauftragte für Ratingen,,Hülsenbergweg 103,40885,Ratingen,6.841176,51.330244,Nordrhein-Westfalen,Düsseldorf,Mettmann
+1,OV,Nordrhein-Westfalen,Düsseldorf,Solingen,OSOG,03.06.1953,Der Ortsbeauftragte für Solingen,,Lüneschloßstraße 30,42657,Solingen,7.084496,51.16313,Nordrhein-Westfalen,Düsseldorf,Solingen
+1,OV,Nordrhein-Westfalen,Düsseldorf,Velbert,OVEL,01.01.1959,Der Ortsbeauftragte für Velbert,,Hixholzer Weg 22,42551,Velbert,7.061557,51.33078,Nordrhein-Westfalen,Düsseldorf,Mettmann
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Bottrop,OBTP,13.09.1953,Der Ortsbeauftragte für Bottrop,,Stenkhoffstraße 119a,46240,Bottrop,6.932823,51.555869,Nordrhein-Westfalen,Münster,Bottrop
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Castrop-Rauxel,OCRX,01.08.1952,Der Ortsbeauftragte für Castrop-Rauxel,,Oskarstraße 51 a,44579,Castrop-Rauxel,7.316009,51.583266,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Datteln,ODAT,01.01.1953,Der Ortsbeauftragte für Datteln,,Hafenstraße 35,45711,Datteln,7.3535,51.65616,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Essen,OESS,10.09.1952,Der Ortsbeauftragte für Essen,,Im Hesselbruch 5,45356,Essen,6.959612,51.486346,Nordrhein-Westfalen,Düsseldorf,Essen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Gelsenkirchen,OGLK,01.01.1952,Der Ortsbeauftragte für Gelsenkirchen,,Adenauerallee 100,45891,Gelsenkirchen,7.071368,51.562677,Nordrhein-Westfalen,Münster,Gelsenkirchen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Gladbeck/Dorsten,OGDO,01.01.1953,Der Ortsbeauftragte für Gladbeck-Dorsten,,Stollenstraße 15,45966,Gladbeck,6.967226,51.574058,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Haltern am See,OHLT,23.05.1962,Der Ortsbeauftragte für Haltern am See,,Annabergstraße 61,45721,Haltern am See,7.169968,51.733241,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Herten,OHTN,12.12.1956,Der Ortsbeauftragte für Herten,,Zum Bahnhof 14,45701,Herten,7.0829968,51.6019309,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Marl,OMRL,01.01.1953,Der Ortsbeauftragte für Marl,,Hülsbergstraße 1-3,45770,Marl,7.156275,51.657522,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Recklinghausen,OREC,01.01.1951,Der Ortsbeauftragte für Recklinghausen,,Carl-Still-Straße 14,45659,Recklinghausen,7.201447,51.587734,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Gelsenkirchen,Waltrop,OWTP,01.08.1959,Der Ortsbeauftragte für Waltrop,,Im Löhken 30 - 32,45731,Waltrop,7.420744,51.639078,Nordrhein-Westfalen,Münster,Recklinghausen
+1,OV,Nordrhein-Westfalen,Köln,Bad Honnef,OBHF,17.05.1967,Der Ortsbeauftragte für Bad Honnef,,Quellenstraße 2,53604,Bad Honnef,7.219718,50.642752,Nordrhein-Westfalen,Köln,Rhein-Sieg-Kreis
+1,OV,Nordrhein-Westfalen,Köln,Bergheim,OBGH,01.05.1955,Der Ortsbeauftragte für Bergheim,,Oswaldstraße 11,50126,Bergheim,6.620838,50.944992,Nordrhein-Westfalen,Köln,Rhein-Erft-Kreis
+1,OV,Nordrhein-Westfalen,Köln,Bergisch Gladbach,OBGG,01.01.1965,Der Ortsbeauftragte für Bergisch Gladbach,,Romaneyer Straße 25,51467,Bergisch Gladbach,7.132529,51.004624,Nordrhein-Westfalen,Köln,Rheinisch-Bergischer Kreis
+1,OV,Nordrhein-Westfalen,Köln,Beuel,OBEU,25.02.1953,Der Ortsbeauftragte für Beuel,,Beueler Straße 103,53229,Bonn,7.138087,50.752451,Nordrhein-Westfalen,Köln,Bonn
+1,OV,Nordrhein-Westfalen,Köln,Bonn,OBNG,01.10.1952,Der Ortsbeauftragte für Bonn,,Am Dickobskreuz 8,53121,Bonn,7.075058,50.734952,Nordrhein-Westfalen,Köln,Bonn
+1,OV,Nordrhein-Westfalen,Köln,Bornheim,OBOR,01.07.1986,Der Ortsbeauftragte für Bornheim,,Donnerbachweg 15,53332,Bornheim,6.948733,50.767904,Nordrhein-Westfalen,Köln,Rhein-Sieg-Kreis
+1,OV,Nordrhein-Westfalen,Köln,Brühl,OBRL,01.01.1973,Der Ortsbeauftragte für Brühl,,Kölnstraße 106,50321,Brühl,6.908829,50.833779,Nordrhein-Westfalen,Köln,Rhein-Erft-Kreis
+1,OV,Nordrhein-Westfalen,Köln,Köln Nord-West,OKNW,17.07.1956,Der Ortsbeauftragte für Köln Nord-West,,Eupener Straße 126,50933,Köln,6.890511,50.943728,Nordrhein-Westfalen,Köln,Köln
+1,OV,Nordrhein-Westfalen,Köln,Köln-Ost,OKOT,01.04.1952,Der Ortsbeauftragte für Köln-Ost,,Ostmerheimer Straße 202,51109,Köln,7.050342,50.934194,Nordrhein-Westfalen,Köln,Köln
+1,OV,Nordrhein-Westfalen,Köln,Köln-Porz,OKPZ,01.01.1970,Der Ortsbeauftragte für Köln-Porz,,Bartholomäusstraße 30,51145,Köln,7.090645,50.883914,Nordrhein-Westfalen,Köln,Köln
+1,OV,Nordrhein-Westfalen,Köln,Leverkusen,OLEV,22.09.1952,Der Ortsbeauftragte für Leverkusen,,Schlangenhecke 3,51381,Leverkusen,7.015687,51.048397,Nordrhein-Westfalen,Köln,Leverkusen
+1,OV,Nordrhein-Westfalen,Köln,Siegburg,OSGB,07.05.1952,Der Ortsbeauftragte für Siegburg,,Auf den Tongruben 1,53721,Siegburg,7.225266,50.805054,Nordrhein-Westfalen,Köln,Rhein-Sieg-Kreis
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Erkelenz,OEKZ,04.07.1960,Der Ortsbeauftragte für Erkelenz,,Ferdinand-Clasen-Straße 31,41812,Erkelenz,6.334511,51.081648,Nordrhein-Westfalen,Köln,Heinsberg
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Grevenbroich,OGVB,11.11.1953,Der Ortsbeauftragte für Grevenbroich,,Otto-Hahn-Straße 6,41515,Grevenbroich,6.619035,51.083542,Nordrhein-Westfalen,Düsseldorf,Rhein-Kreis Neuss
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Hückelhoven,OHHV,12.06.1960,Der Ortsbeauftragte für Hückelhoven,,Millicher Straße 6,41836,Hückelhoven,6.189286,51.063848,Nordrhein-Westfalen,Köln,Heinsberg
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Kempen,OKMP,01.01.1959,Der Ortsbeauftragte für Kempen,,Industriering Ost 23,47906,Kempen,6.434455,51.366501,Nordrhein-Westfalen,Düsseldorf,Viersen
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Krefeld,OKRE,21.10.1952,Der Ortsbeauftragte für Krefeld,,Parkstraße 47,47829,Krefeld,6.641533,51.357636,Nordrhein-Westfalen,Düsseldorf,Krefeld
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Mönchengladbach,OMGB,01.02.1952,Der Ortsbeauftragte für Mönchengladbach,,Lilienthalstraße 31,41069,Mönchengladbach,6.399821,51.177072,Nordrhein-Westfalen,Düsseldorf,Mönchengladbach
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Nettetal,ONET,18.08.1959,Der Ortsbeauftragte für Nettetal,,Steyler Straße 143,41334,Nettetal,6.181171,51.325046,Nordrhein-Westfalen,Düsseldorf,Viersen
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Neuss,ONSS,29.10.1952,Der Ortsbeauftragte für Neuss,,Kamberger Weg 2,41464,Neuss,6.666878,51.186038,Nordrhein-Westfalen,Düsseldorf,Rhein-Kreis Neuss
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Übach-Palenberg,OUEP,16.09.1972,Der Ortsbeauftragte für Übach-Palenberg,,Werkstraße 3,52531,Übach-Palenberg,6.139052,50.914768,Nordrhein-Westfalen,Köln,Heinsberg
+1,OV,Nordrhein-Westfalen,Mönchengladbach,Viersen,OVTV,15.10.1952,Der Ortsbeauftragte für Viersen,,Robend 143,41748,Viersen,6.415907,51.255059,Nordrhein-Westfalen,Düsseldorf,Viersen
+1,OV,Nordrhein-Westfalen,Münster,Beckum,OBKM,07.10.1975,Der Ortsbeauftragte für Beckum,,Siemensstraße 11,59269,Beckum,8.064476,51.754784,Nordrhein-Westfalen,Münster,Warendorf
+1,OV,Nordrhein-Westfalen,Münster,Coesfeld,OCOE,01.01.1960,Der Ortsbeauftragte für Coesfeld,,Osterwicker Straße 85 a,48653,Coesfeld,7.177751,51.956553,Nordrhein-Westfalen,Münster,Coesfeld
+1,OV,Nordrhein-Westfalen,Münster,Dülmen,ODLM,16.05.1973,Der Ortsbeauftragte für Dülmen,,An der Lehmkuhle 57,48249,Dülmen,7.305018,51.833119,Nordrhein-Westfalen,Münster,Coesfeld
+1,OV,Nordrhein-Westfalen,Münster,Greven,OGVN,01.12.1965,Der Ortsbeauftragte für Greven,,Gutenbergstraße 40a,48268,Greven,7.594397,52.099032,Nordrhein-Westfalen,Münster,Steinfurt
+1,OV,Nordrhein-Westfalen,Münster,Havixbeck,OHVX,01.01.1975,Der Ortsbeauftragte für Havixbeck,,Hangwerfeld 18,48329,Havixbeck,7.429104,51.97916,Nordrhein-Westfalen,Münster,Coesfeld
+1,OV,Nordrhein-Westfalen,Münster,Ibbenbüren,OIBB,01.01.1955,Der Ortsbeauftragte für Ibbenbüren,,Laggenbecker Straße 88,49477,Ibbenbüren,7.73256,52.27501,Nordrhein-Westfalen,Münster,Steinfurt
+1,OV,Nordrhein-Westfalen,Münster,Lengerich,OLGH,01.01.1959,Der Ortsbeauftragte für Lengerich,,Ladberger Straße 103,49525,Lengerich,7.800554,52.159776,Nordrhein-Westfalen,Münster,Steinfurt
+1,OV,Nordrhein-Westfalen,Münster,Lüdinghausen,OLDH,01.09.1959,Der Ortsbeauftragte für Lüdinghausen,,Werner-von-Siemens-Str. 3,59348,Lüdinghausen,7.4314737,51.7538435,Nordrhein-Westfalen,Münster,Coesfeld
+1,OV,Nordrhein-Westfalen,Münster,Münster,OMST,01.01.1952,Der Ortsbeauftragte für Münster,,An den Speichern 3,48157,Münster,7.634576,51.995715,Nordrhein-Westfalen,Münster,Münster
+1,OV,Nordrhein-Westfalen,Münster,Oelde,OOEL,01.07.1971,Der Ortsbeauftragte für Oelde,,Am Landhagen 55,59302,Oelde,8.15276,51.845206,Nordrhein-Westfalen,Münster,Warendorf
+1,OV,Nordrhein-Westfalen,Münster,Rheine,ORHN,01.06.1958,Der Ortsbeauftragte für Rheine,,Hauenhorster Straße 169,48431,Rheine,7.448552,52.261037,Nordrhein-Westfalen,Münster,Steinfurt
+1,OV,Nordrhein-Westfalen,Münster,Warendorf,OWDF,01.01.1975,Der Ortsbeauftragte für Warendorf,,Robert-Bosch-Straße 3,48346,Ostbevern,7.854042,52.040225,Nordrhein-Westfalen,Münster,Warendorf
+1,OV,Nordrhein-Westfalen,Olpe,Attendorn,OATT,22.12.1965,Der Ortsbeauftragte für Attendorn,,Heggener Weg 9,57439,Attendorn,7.914357,51.131031,Nordrhein-Westfalen,Arnsberg,Olpe
+1,OV,Nordrhein-Westfalen,Olpe,Bad Berleburg,OBBB,01.04.1962,Der Ortsbeauftragte für Bad Berleburg,,Sauerlandstraße 7,57319,Bad Berleburg,8.386685,51.031889,Nordrhein-Westfalen,Arnsberg,Siegen-Wittgenstein
+1,OV,Nordrhein-Westfalen,Olpe,Bergneustadt,OBNS,01.04.1974,Der Ortsbeauftragte für Bergneustadt,,Kölner Straße 414,51702,Bergneustadt,7.675532,51.02247,Nordrhein-Westfalen,Köln,Oberbergischer Kreis
+1,OV,Nordrhein-Westfalen,Olpe,Gummersbach,OGMB,01.03.1960,Der Ortsbeauftragte für Gummersbach,,Hückeswagener Straße 130,51647,Gummersbach,7.544152,51.052569,Nordrhein-Westfalen,Köln,Oberbergischer Kreis
+1,OV,Nordrhein-Westfalen,Olpe,Hückeswagen,OHWG,01.07.1976,Der Ortsbeauftragte für Hückeswagen,,Bockhackerstraße 5,42499,Hückeswagen,7.29372,51.13866,Nordrhein-Westfalen,Köln,Oberbergischer Kreis
+1,OV,Nordrhein-Westfalen,Olpe,Lennestadt,OLEN,01.04.1966,Der Ortsbeauftragte für Lennestadt,,Meggener Straße 63 a,57368,Lennestadt,8.068368,51.121254,Nordrhein-Westfalen,Arnsberg,Olpe
+1,OV,Nordrhein-Westfalen,Olpe,Olpe,OOLP,26.04.1954,Der Ortsbeauftragte für Olpe,,Friedrichsthaler Straße 8a,57462,Olpe,7.837142,51.007374,Nordrhein-Westfalen,Arnsberg,Olpe
+1,OV,Nordrhein-Westfalen,Olpe,Siegen,OSIE,19.09.1951,Der Ortsbeauftragte für Siegen,,Numbachstraße 2,57072,Siegen,8.002138,50.883897,Nordrhein-Westfalen,Arnsberg,Siegen-Wittgenstein
+1,OV,Nordrhein-Westfalen,Olpe,Waldbröl,OWBL,01.04.1974,Der Ortsbeauftragte für Waldbröl,,Käthe-Kollwitz-Straße 17,51545,Waldbröl,7.639646,50.889012,Nordrhein-Westfalen,Köln,Oberbergischer Kreis
+1,OV,Nordrhein-Westfalen,Olpe,Wermelskirchen,OWKN,04.12.1970,Der Ortsbeauftragte für Wermelskirchen,,Tente 4,42929,Wermelskirchen,7.19856,51.127936,Nordrhein-Westfalen,Köln,Rheinisch-Bergischer Kreis
+1,OV,Nordrhein-Westfalen,Wesel,Ahaus,OAHA,13.12.1965,Der Ortsbeauftragte für Ahaus,,Georgstraße 7,48683,Ahaus,6.920933,52.07502,Nordrhein-Westfalen,Münster,Borken
+1,OV,Nordrhein-Westfalen,Wesel,Bocholt/Borken,OBOB,09.09.1953,Der Ortsbeauftragte für Bocholt/Borken,,Enkhook 14,46395,Bocholt,6.573221,51.806737,Nordrhein-Westfalen,Münster,Borken
+1,OV,Nordrhein-Westfalen,Wesel,Dinslaken,ODLK,01.04.1953,Der Ortsbeauftragte für Dinslaken,,Hülsermannshof 11b,47179,Duisburg,6.749928,51.534229,Nordrhein-Westfalen,Düsseldorf,Duisburg
+1,OV,Nordrhein-Westfalen,Wesel,Emmerich,OEMH,10.09.1952,Der Ortsbeauftragte für Emmerich,,Tackenweide 16,46446,Emmerich,6.266874,51.844703,Nordrhein-Westfalen,Düsseldorf,Kleve
+1,OV,Nordrhein-Westfalen,Wesel,Geldern,OGLD,18.02.1960,Der Ortsbeauftragte für Geldern,,Römerstraße 20-24,47608,Geldern,6.293834,51.485806,Nordrhein-Westfalen,Düsseldorf,Kleve
+1,OV,Nordrhein-Westfalen,Wesel,Gronau,OGRN,01.06.1954,Der Ortsbeauftragte für Gronau,,Vereinsstraße 135,48599,Gronau,7.044415,52.20842,Nordrhein-Westfalen,Münster,Borken
+1,OV,Nordrhein-Westfalen,Wesel,Kleve,OKLV,05.05.1953,Der Ortsbeauftragte für Kleve,,Spyckstraße 162,47533,Kleve,6.132628,51.801292,Nordrhein-Westfalen,Düsseldorf,Kleve
+1,OV,Nordrhein-Westfalen,Wesel,Moers,OMRS,09.09.1953,Der Ortsbeauftragte für Moers,,Homberger Straße 250,47443,Moers,6.663897,51.449125,Nordrhein-Westfalen,Düsseldorf,Wesel
+1,OV,Nordrhein-Westfalen,Wesel,Oberhausen,OONW,17.12.1942,Der Ortsbeauftragte für Oberhausen,,Brücktorstraße 38,46047,Oberhausen,6.868634,51.48128,Nordrhein-Westfalen,Düsseldorf,Oberhausen
+1,OV,Nordrhein-Westfalen,Wesel,Wesel,OWSL,01.01.1954,Der Ortsbeauftragte für Wesel,,Kanonenberge 4,46487,Wesel,6.595044,51.691143,Nordrhein-Westfalen,Düsseldorf,Wesel
+1,OV,"Sachsen, Thüringen",Chemnitz,Annaberg,OANA,24.01.1997,Der Ortsbeauftragte für Annaberg,,Gewerbegeb. a.d. B 95 Haus 4c,9427,Ehrenfriedersdorf,12.963494,50.63501,Sachsen,Chemnitz,Annaberg
+1,OV,"Sachsen, Thüringen",Chemnitz,Aue-Schwarzenberg,OAUE,22.11.1996,Der Ortsbeauftragte für Aue-Schwarzenberg,,Wachbergstraße 4,8280,Aue,12.705426,50.613448,Sachsen,Chemnitz,Aue-Schwarzenberg
+1,OV,"Sachsen, Thüringen",Chemnitz,Chemnitz,OCHE,09.11.1991,Der Ortsbeauftragte für Chemnitz,,Max-Saupe-Straße 41 e,9131,Chemnitz,12.952892,50.871017,Sachsen,Chemnitz,Chemnitz
+1,OV,"Sachsen, Thüringen",Chemnitz,Döbeln,ODOE,11.06.1992,Der Ortsbeauftragte für Döbeln,,Friedrichstraße 17,4720,Döbeln,13.109093,51.120799,Sachsen,Leipzig,Döbeln
+1,OV,"Sachsen, Thüringen",Chemnitz,Freiberg,OFBG,01.07.1997,Der Ortsbeauftragte für Freiberg,,Am Rotvorwerk 18,9599,Freiberg,13.325908,50.881744,Sachsen,Chemnitz,Freiberg
+1,OV,"Sachsen, Thüringen",Chemnitz,Plauen,OPLA,01.01.1995,Der Ortsbeauftragte für Plauen,,Europarat Straße 11,8523,Plauen,12.10398,50.490631,Sachsen,Chemnitz,Plauen
+1,OV,"Sachsen, Thüringen",Chemnitz,Reichenbach,ORBA,14.12.1996,Der Ortsbeauftragte für Reichenbach,,Buchenstraße 16,8468,Reichenbach,12.320937,50.633444,Sachsen,Chemnitz,Vogtlandkreis
+1,OV,"Sachsen, Thüringen",Chemnitz,Zwickau,OZWI,13.12.1996,Der Ortsbeauftragte für Zwickau,,Audistraße 8,8058,Zwickau,12.485562,50.732555,Sachsen,Chemnitz,Zwickau
+1,OV,"Sachsen, Thüringen",Dresden,Bautzen,OBAU,22.05.1992,Der Ortsbeauftragte für Bautzen,,Käthe-Kollwitz-Straße 17,2625,Bautzen,14.43803,51.170958,Sachsen,Dresden,Bautzen
+1,OV,"Sachsen, Thüringen",Dresden,Dippoldiswalde,ODIP,13.05.2005,Der Ortsbeauftragte für Dippoldiswalde,,Industriering 15 b,1744,Dippoldiswalde,13.696749,50.900183,Sachsen,Dresden,Weißeritzkreis
+1,OV,"Sachsen, Thüringen",Dresden,Dresden,ODRE,13.11.1993,Der Ortsbeauftragte für Dresden,,Fabricestraße 5,1099,Dresden,13.75482,51.081478,Sachsen,Dresden,Dresden
+1,OV,"Sachsen, Thüringen",Dresden,Görlitz,OGOZ,08.11.1991,Der Ortsbeauftragte für Görlitz,,Am Flugplatz 8 a,2828,Görlitz,14.959851,51.161849,Sachsen,Dresden,Görlitz
+1,OV,"Sachsen, Thüringen",Dresden,Kamenz,OKAM,20.03.1992,Der Ortsbeauftragte für Kamenz,,Garnisonsplatz 8,1917,Kamenz,14.103285,51.284115,Sachsen,Dresden,Kamenz
+1,OV,"Sachsen, Thüringen",Dresden,Pirna,OPIR,01.07.1994,Der Ortsbeauftragte für Pirna,,Rottwerndorfer Straße 45 p,1796,Pirna,13.943942,50.943083,Sachsen,Dresden,Sächsische Schweiz
+1,OV,"Sachsen, Thüringen",Dresden,Radebeul,ORBE,07.12.1991,Der Ortsbeauftragte für Radebeul,,Wilhelm-Eichler-Straße 38,1445,Radebeul,13.619068,51.109383,Sachsen,Dresden,Meißen
+1,OV,"Sachsen, Thüringen",Dresden,Riesa,ORIS,01.01.1995,Der Ortsbeauftragte für Riesa,,Kastanienstraße 4,1591,Riesa,13.285016,51.317177,Sachsen,Dresden,Riesa-Großenhain
+1,OV,"Sachsen, Thüringen",Dresden,Zittau,OZIT,12.06.1992,Der Ortsbeauftragte für Zittau,,Sachsenstraße 22,2763,Zittau,14.804356,50.881996,Sachsen,Dresden,Löbau-Zittau
+1,OV,"Sachsen, Thüringen",Erfurt,Apolda,OAPO,14.05.1994,Der Ortsbeauftragte für Apolda,,Am Sportplatz 1,99518,Niedertrebra,11.582231,51.070369,Thüringen, ,Weimarer Land
+1,OV,"Sachsen, Thüringen",Erfurt,Eisenach,OEIS,10.10.1992,Der Ortsbeauftragte für Eisenach,,Ernst-Thälmann Straße 80,99817,Eisenach,10.303942,50.992066,Thüringen, ,Wartburgkreis
+1,OV,"Sachsen, Thüringen",Erfurt,Erfurt,OERF,29.06.1991,Der Ortsbeauftragte für Erfurt,,St. Christophorus-Straße 7,99092,Erfurt,11.002132,50.992631,Thüringen, ,Erfurt
+1,OV,"Sachsen, Thüringen",Erfurt,Gotha,OGTH,12.08.2006,Der Ortsbeauftragte für Gotha,,Schlegelstraße 13,99867,Gotha,10.717882,50.930699,Thüringen, ,Gotha
+1,OV,"Sachsen, Thüringen",Erfurt,Heiligenstadt,OHST,20.10.1991,Der Ortsbeauftragte für Heiligenstadt,,Pferdebachtal,37308,Heilbad Heiligenstadt,10.1367614913907,51.3760849194703,Thüringen, ,Eichsfeld
+1,OV,"Sachsen, Thüringen",Erfurt,Nordhausen,ONOR,30.04.1994,Der Ortsbeauftragte für Nordhausen,,Kleinwertherstraße 46,99734,Nordhausen,10.737863,51.496198,Thüringen, ,Nordhausen
+1,OV,"Sachsen, Thüringen",Erfurt,Rudolstadt/Saalfeld,ORUS,23.03.1996,Der Ortsbeauftragte für Rudolstadt/Saalfeld,,Oststraße 33,7407,Rudolstadt,11.35443,50.722308,Thüringen, ,Saalfeld-Rudolstadt
+1,OV,"Sachsen, Thüringen",Erfurt,Sondershausen,OSON,20.08.1994,Der Ortsbeauftragte für Sondershausen,,Gänseweide 1,99706,Sondershausen,10.85305,51.38036,Thüringen, ,Kyffhäuserkreis
+1,OV,"Sachsen, Thüringen",Erfurt,Sonneberg,OSNB,14.11.1997,Der Ortsbeauftragte für Sonneberg,,Mittlere Motsch Straße 11,96515,Sonneberg,11.172148,50.34574,Thüringen, ,Sonneberg
+1,OV,"Sachsen, Thüringen",Erfurt,Suhl,OSUH,02.11.1991,Der Ortsbeauftragte für Suhl,,Weidbergstraße 11,98527,Suhl,10.708456,50.589344,Thüringen, ,Suhl
+1,OV,"Sachsen, Thüringen",Leipzig,Altenburg,OALT,03.12.1996,Der Ortsbeauftragte für Altenburg,,Julius-Zinkeisen-Straße 11,4600,Altenburg,12.454445,51.005538,Thüringen, ,Altenburger Land
+1,OV,"Sachsen, Thüringen",Leipzig,Borna,OBNA,23.05.2003,Der Ortsbeauftragte für Borna,,Kasernenstraße 2,4552,Borna,12.487605,51.117655,Sachsen,Leipzig,Leipziger Land
+1,OV,"Sachsen, Thüringen",Leipzig,Eilenburg,OEIL,13.06.1992,Der Ortsbeauftragte für Eilenburg,,Dr. Belian-Straße 10,4838,Eilenburg,12.639704,51.456785,Sachsen,Leipzig,Delitzsch
+1,OV,"Sachsen, Thüringen",Leipzig,Gera,ORBG,21.12.1992,Der Ortsbeauftragte für Gera,,Wiesestraße 111,7548,Gera,12.073077,50.858698,Thüringen, ,Gera
+1,OV,"Sachsen, Thüringen",Leipzig,Grimma,OGRM,19.11.1996,Der Ortsbeauftragte für Grimma,,Hengstbergstraße 17,4668,Grimma,12.722093,51.256732,Sachsen,Leipzig,Muldentalkreis
+1,OV,"Sachsen, Thüringen",Leipzig,Leipzig,OLNO,06.12.1991,Der Ortsbeauftragte für Leipzig,,Wodanstraße 19,4347,Leipzig,12.455733,51.369531,Sachsen,Leipzig,Leipziger Land
+1,OV,"Sachsen, Thüringen",Leipzig,Torgau,OTOR,20.05.1992,Der Ortsbeauftragte für Torgau,,Zum Großen Teich 34,4860,Torgau,12.97529,51.550945,Sachsen,Leipzig,Torgau-Oschatz
